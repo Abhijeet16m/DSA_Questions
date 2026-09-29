@@ -1,11 +1,11 @@
 {
-  "totalSolved": 5,
+  "totalSolved": 6,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-09-29",
-  "todayCount": 5,
+  "todayCount": 6,
   "difficultyCounts": {
-    "easy": 4,
+    "easy": 5,
     "medium": 1,
     "hard": 0,
     "basic": 0
@@ -15,16 +15,18 @@
     "LeetCode_Palindrome_Number": true,
     "LeetCode_Valid_Palindrome": true,
     "LeetCode_Two_Sum_II_-_Input_Array_Is_Sorted": true,
-    "LeetCode_Reverse_String": true
+    "LeetCode_Reverse_String": true,
+    "LeetCode_Move_Zeroes": true
   },
   "activityHistory": {
-    "2026-09-29": 5
+    "2026-09-29": 6
   },
   "todayProblems": [
     "Two Sum",
     "Palindrome Number",
     "Valid Palindrome",
     "Two Sum II - Input Array Is Sorted",
-    "Reverse String"
+    "Reverse String",
+    "Move Zeroes"
   ]
 }
