@@ -7,3 +7,4 @@
 | 5 | [Reverse String](./LeetCode/Easy/Reverse%20String) | [LeetCode](https://leetcode.com/problems/reverse-string/) | Easy | 29 Sept 2026 | 09:38 pm |
 | 6 | [Move Zeroes](./LeetCode/Easy/Move%20Zeroes) | [LeetCode](https://leetcode.com/problems/move-zeroes/) | Easy | 29 Sept 2026 | 09:46 pm |
 | 7 | [Is Subsequence](./LeetCode/Easy/Is%20Subsequence) | [LeetCode](https://leetcode.com/problems/is-subsequence/) | Easy | 29 Sept 2026 | 09:51 pm |
+| 8 | [Overlapping Intervals](./GeeksForGeeks/Easy/Overlapping%20Intervals) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/overlapping-intervals--174556/1) | Easy | 01 Oct 2026 | 03:01 pm |
