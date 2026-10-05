@@ -18,3 +18,4 @@
 | 16 | [Nth Fibonacci Using Recursion](./GeeksForGeeks/Basic/Nth%20Fibonacci%20Using%20Recursion) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/fibonacci-using-recursion/1) | Basic | 05 Oct 2026 | 02:50 pm |
 | 17 | [Nth Fibonacci Number](./GeeksForGeeks/Easy/Nth%20Fibonacci%20Number) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/nth-fibonacci-number1335/1) | Easy | 05 Oct 2026 | 02:51 pm |
 | 18 | [First n Fibonacci using Recursion](./GeeksForGeeks/Basic/First%20n%20Fibonacci%20using%20Recursion) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/print-first-n-fibonacci-numbers1002/1) | Basic | 05 Oct 2026 | 03:02 pm |
+| 19 | [Power Using Recursion](./GeeksForGeeks/Basic/Power%20Using%20Recursion) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/power-using-recursion/1) | Basic | 05 Oct 2026 | 03:09 pm |

@@ -1,14 +1,14 @@
 {
-  "totalSolved": 18,
+  "totalSolved": 19,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-10-05",
-  "todayCount": 9,
+  "todayCount": 10,
   "difficultyCounts": {
     "easy": 12,
     "medium": 1,
     "hard": 0,
-    "basic": 5
+    "basic": 6
   },
   "syncedProblems": {
     "LeetCode_Two_Sum": true,
@@ -28,12 +28,13 @@
     "GeeksForGeeks_Factorial": true,
     "GeeksForGeeks_Nth_Fibonacci_Using_Recursion": true,
     "GeeksForGeeks_Nth_Fibonacci_Number": true,
-    "GeeksForGeeks_First_n_Fibonacci_using_Recursion": true
+    "GeeksForGeeks_First_n_Fibonacci_using_Recursion": true,
+    "GeeksForGeeks_Power_Using_Recursion": true
   },
   "activityHistory": {
     "2026-09-29": 7,
     "2026-10-01": 2,
-    "2026-10-05": 9
+    "2026-10-05": 10
   },
   "todayProblems": [
     "1 to n Without Loop",
@@ -44,6 +45,7 @@
     "Factorial",
     "Nth Fibonacci Using Recursion",
     "Nth Fibonacci Number",
-    "First n Fibonacci using Recursion"
+    "First n Fibonacci using Recursion",
+    "Power Using Recursion"
   ]
 }
