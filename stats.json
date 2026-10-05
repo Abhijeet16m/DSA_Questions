@@ -1,12 +1,12 @@
 {
-  "totalSolved": 19,
+  "totalSolved": 20,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-10-05",
-  "todayCount": 10,
+  "todayCount": 11,
   "difficultyCounts": {
     "easy": 12,
-    "medium": 1,
+    "medium": 2,
     "hard": 0,
     "basic": 6
   },
@@ -29,12 +29,13 @@
     "GeeksForGeeks_Nth_Fibonacci_Using_Recursion": true,
     "GeeksForGeeks_Nth_Fibonacci_Number": true,
     "GeeksForGeeks_First_n_Fibonacci_using_Recursion": true,
-    "GeeksForGeeks_Power_Using_Recursion": true
+    "GeeksForGeeks_Power_Using_Recursion": true,
+    "GeeksForGeeks_Subsets": true
   },
   "activityHistory": {
     "2026-09-29": 7,
     "2026-10-01": 2,
-    "2026-10-05": 10
+    "2026-10-05": 11
   },
   "todayProblems": [
     "1 to n Without Loop",
@@ -46,6 +47,7 @@
     "Nth Fibonacci Using Recursion",
     "Nth Fibonacci Number",
     "First n Fibonacci using Recursion",
-    "Power Using Recursion"
+    "Power Using Recursion",
+    "Subsets"
   ]
 }
