@@ -1,14 +1,14 @@
 {
-  "totalSolved": 15,
+  "totalSolved": 16,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-10-05",
-  "todayCount": 6,
+  "todayCount": 7,
   "difficultyCounts": {
     "easy": 11,
     "medium": 1,
     "hard": 0,
-    "basic": 3
+    "basic": 4
   },
   "syncedProblems": {
     "LeetCode_Two_Sum": true,
@@ -25,12 +25,13 @@
     "GeeksForGeeks_Recursively_Sum_n_Numbers": true,
     "GeeksForGeeks_Sum_Of_Digits": true,
     "GeeksForGeeks_Count_Digits_in_Number": true,
-    "GeeksForGeeks_Factorial": true
+    "GeeksForGeeks_Factorial": true,
+    "GeeksForGeeks_Nth_Fibonacci_Using_Recursion": true
   },
   "activityHistory": {
     "2026-09-29": 7,
     "2026-10-01": 2,
-    "2026-10-05": 6
+    "2026-10-05": 7
   },
   "todayProblems": [
     "1 to n Without Loop",
@@ -38,6 +39,7 @@
     "Recursively Sum n Numbers",
     "Sum Of Digits",
     "Count Digits in Number",
-    "Factorial"
+    "Factorial",
+    "Nth Fibonacci Using Recursion"
   ]
 }

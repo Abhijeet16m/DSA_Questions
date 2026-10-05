@@ -15,3 +15,4 @@
 | 13 | [Sum Of Digits](./GeeksForGeeks/Easy/Sum%20Of%20Digits) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/sum-of-digits1742/1) | Easy | 05 Oct 2026 | 02:36 pm |
 | 14 | [Count Digits in Number](./GeeksForGeeks/Easy/Count%20Digits%20in%20Number) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-total-digits-in-a-number/1) | Easy | 05 Oct 2026 | 02:38 pm |
 | 15 | [Factorial](./GeeksForGeeks/Basic/Factorial) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/factorial5739/1) | Basic | 05 Oct 2026 | 02:42 pm |
+| 16 | [Nth Fibonacci Using Recursion](./GeeksForGeeks/Basic/Nth%20Fibonacci%20Using%20Recursion) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/fibonacci-using-recursion/1) | Basic | 05 Oct 2026 | 02:50 pm |
