@@ -1,11 +1,11 @@
 {
-  "totalSolved": 13,
+  "totalSolved": 14,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-10-05",
-  "todayCount": 4,
+  "todayCount": 5,
   "difficultyCounts": {
-    "easy": 10,
+    "easy": 11,
     "medium": 1,
     "hard": 0,
     "basic": 2
@@ -23,17 +23,19 @@
     "GeeksForGeeks_1_to_n_Without_Loop": true,
     "GeeksForGeeks_Sum_of_Natural_Numbers": true,
     "GeeksForGeeks_Recursively_Sum_n_Numbers": true,
-    "GeeksForGeeks_Sum_Of_Digits": true
+    "GeeksForGeeks_Sum_Of_Digits": true,
+    "GeeksForGeeks_Count_Digits_in_Number": true
   },
   "activityHistory": {
     "2026-09-29": 7,
     "2026-10-01": 2,
-    "2026-10-05": 4
+    "2026-10-05": 5
   },
   "todayProblems": [
     "1 to n Without Loop",
     "Sum of Natural Numbers",
     "Recursively Sum n Numbers",
-    "Sum Of Digits"
+    "Sum Of Digits",
+    "Count Digits in Number"
   ]
 }
