@@ -14,3 +14,4 @@
 | 12 | [Recursively Sum n Numbers](./GeeksForGeeks/Easy/Recursively%20Sum%20n%20Numbers) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/recursively-sum-n-numbers/1) | Easy | 05 Oct 2026 | 02:34 pm |
 | 13 | [Sum Of Digits](./GeeksForGeeks/Easy/Sum%20Of%20Digits) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/sum-of-digits1742/1) | Easy | 05 Oct 2026 | 02:36 pm |
 | 14 | [Count Digits in Number](./GeeksForGeeks/Easy/Count%20Digits%20in%20Number) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-total-digits-in-a-number/1) | Easy | 05 Oct 2026 | 02:38 pm |
+| 15 | [Factorial](./GeeksForGeeks/Basic/Factorial) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/factorial5739/1) | Basic | 05 Oct 2026 | 02:42 pm |
