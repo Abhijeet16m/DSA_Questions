@@ -10,3 +10,4 @@
 | 8 | [Overlapping Intervals](./GeeksForGeeks/Easy/Overlapping%20Intervals) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/overlapping-intervals--174556/1) | Easy | 01 Oct 2026 | 03:01 pm |
 | 9 | [Assign Cookies](./LeetCode/Easy/Assign%20Cookies) | [LeetCode](https://leetcode.com/problems/assign-cookies/) | Easy | 01 Oct 2026 | 03:21 pm |
 | 10 | [1 to n Without Loop](./GeeksForGeeks/Basic/1%20to%20n%20Without%20Loop) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/print-1-to-n-without-using-loops3621/1) | Basic | 05 Oct 2026 | 02:25 pm |
+| 11 | [Sum of Natural Numbers](./GeeksForGeeks/Basic/Sum%20of%20Natural%20Numbers) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/reverse-coding2452/1) | Basic | 05 Oct 2026 | 02:31 pm |
