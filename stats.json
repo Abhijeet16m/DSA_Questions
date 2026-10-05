@@ -1,14 +1,14 @@
 {
-  "totalSolved": 9,
+  "totalSolved": 10,
   "currentStreak": 1,
   "maxStreak": 1,
-  "lastSyncDate": "2026-10-01",
-  "todayCount": 2,
+  "lastSyncDate": "2026-10-05",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 8,
     "medium": 1,
     "hard": 0,
-    "basic": 0
+    "basic": 1
   },
   "syncedProblems": {
     "LeetCode_Two_Sum": true,
@@ -19,14 +19,15 @@
     "LeetCode_Move_Zeroes": true,
     "LeetCode_Is_Subsequence": true,
     "GeeksForGeeks_Overlapping_Intervals": true,
-    "LeetCode_Assign_Cookies": true
+    "LeetCode_Assign_Cookies": true,
+    "GeeksForGeeks_1_to_n_Without_Loop": true
   },
   "activityHistory": {
     "2026-09-29": 7,
-    "2026-10-01": 2
+    "2026-10-01": 2,
+    "2026-10-05": 1
   },
   "todayProblems": [
-    "Overlapping Intervals",
-    "Assign Cookies"
+    "1 to n Without Loop"
   ]
 }
