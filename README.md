@@ -12,3 +12,4 @@
 | 10 | [1 to n Without Loop](./GeeksForGeeks/Basic/1%20to%20n%20Without%20Loop) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/print-1-to-n-without-using-loops3621/1) | Basic | 05 Oct 2026 | 02:25 pm |
 | 11 | [Sum of Natural Numbers](./GeeksForGeeks/Basic/Sum%20of%20Natural%20Numbers) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/reverse-coding2452/1) | Basic | 05 Oct 2026 | 02:31 pm |
 | 12 | [Recursively Sum n Numbers](./GeeksForGeeks/Easy/Recursively%20Sum%20n%20Numbers) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/recursively-sum-n-numbers/1) | Easy | 05 Oct 2026 | 02:34 pm |
+| 13 | [Sum Of Digits](./GeeksForGeeks/Easy/Sum%20Of%20Digits) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/sum-of-digits1742/1) | Easy | 05 Oct 2026 | 02:36 pm |
