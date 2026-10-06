@@ -23,3 +23,4 @@
 | 21 | [Squares of a Sorted Array](./LeetCode/Easy/Squares%20of%20a%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/squares-of-a-sorted-array/) | Easy | 06 Oct 2026 | 09:19 am |
 | 22 | [Container With Most Water](./LeetCode/Medium/Container%20With%20Most%20Water) | [LeetCode](https://leetcode.com/problems/container-with-most-water/) | Medium | 06 Oct 2026 | 09:45 am |
 | 23 | [3Sum](./LeetCode/Medium/3Sum) | [LeetCode](https://leetcode.com/problems/3sum/) | Medium | 06 Oct 2026 | 10:32 am |
+| 24 | [Boats to Save People](./LeetCode/Medium/Boats%20to%20Save%20People) | [LeetCode](https://leetcode.com/problems/boats-to-save-people/) | Medium | 06 Oct 2026 | 10:42 am |

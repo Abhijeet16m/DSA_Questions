@@ -1,12 +1,12 @@
 {
-  "totalSolved": 23,
+  "totalSolved": 24,
   "currentStreak": 2,
   "maxStreak": 2,
   "lastSyncDate": "2026-10-06",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
     "easy": 13,
-    "medium": 4,
+    "medium": 5,
     "hard": 0,
     "basic": 6
   },
@@ -33,17 +33,19 @@
     "GeeksForGeeks_Subsets": true,
     "LeetCode_Squares_of_a_Sorted_Array": true,
     "LeetCode_Container_With_Most_Water": true,
-    "LeetCode_3Sum": true
+    "LeetCode_3Sum": true,
+    "LeetCode_Boats_to_Save_People": true
   },
   "activityHistory": {
     "2026-09-29": 7,
     "2026-10-01": 2,
     "2026-10-05": 11,
-    "2026-10-06": 3
+    "2026-10-06": 4
   },
   "todayProblems": [
     "Squares of a Sorted Array",
     "Container With Most Water",
-    "3Sum"
+    "3Sum",
+    "Boats to Save People"
   ]
 }
