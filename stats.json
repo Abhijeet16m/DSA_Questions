@@ -1,11 +1,11 @@
 {
-  "totalSolved": 20,
-  "currentStreak": 1,
-  "maxStreak": 1,
-  "lastSyncDate": "2026-10-05",
-  "todayCount": 11,
+  "totalSolved": 21,
+  "currentStreak": 2,
+  "maxStreak": 2,
+  "lastSyncDate": "2026-10-06",
+  "todayCount": 1,
   "difficultyCounts": {
-    "easy": 12,
+    "easy": 13,
     "medium": 2,
     "hard": 0,
     "basic": 6
@@ -30,24 +30,16 @@
     "GeeksForGeeks_Nth_Fibonacci_Number": true,
     "GeeksForGeeks_First_n_Fibonacci_using_Recursion": true,
     "GeeksForGeeks_Power_Using_Recursion": true,
-    "GeeksForGeeks_Subsets": true
+    "GeeksForGeeks_Subsets": true,
+    "LeetCode_Squares_of_a_Sorted_Array": true
   },
   "activityHistory": {
     "2026-09-29": 7,
     "2026-10-01": 2,
-    "2026-10-05": 11
+    "2026-10-05": 11,
+    "2026-10-06": 1
   },
   "todayProblems": [
-    "1 to n Without Loop",
-    "Sum of Natural Numbers",
-    "Recursively Sum n Numbers",
-    "Sum Of Digits",
-    "Count Digits in Number",
-    "Factorial",
-    "Nth Fibonacci Using Recursion",
-    "Nth Fibonacci Number",
-    "First n Fibonacci using Recursion",
-    "Power Using Recursion",
-    "Subsets"
+    "Squares of a Sorted Array"
   ]
 }
