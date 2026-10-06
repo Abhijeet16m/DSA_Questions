@@ -21,3 +21,4 @@
 | 19 | [Power Using Recursion](./GeeksForGeeks/Basic/Power%20Using%20Recursion) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/power-using-recursion/1) | Basic | 05 Oct 2026 | 03:09 pm |
 | 20 | [Subsets](./GeeksForGeeks/Medium/Subsets) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/subsets-1613027340/1) | Medium | 05 Oct 2026 | 03:34 pm |
 | 21 | [Squares of a Sorted Array](./LeetCode/Easy/Squares%20of%20a%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/squares-of-a-sorted-array/) | Easy | 06 Oct 2026 | 09:19 am |
+| 22 | [Container With Most Water](./LeetCode/Medium/Container%20With%20Most%20Water) | [LeetCode](https://leetcode.com/problems/container-with-most-water/) | Medium | 06 Oct 2026 | 09:45 am |

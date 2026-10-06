@@ -1,12 +1,12 @@
 {
-  "totalSolved": 21,
+  "totalSolved": 22,
   "currentStreak": 2,
   "maxStreak": 2,
   "lastSyncDate": "2026-10-06",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 13,
-    "medium": 2,
+    "medium": 3,
     "hard": 0,
     "basic": 6
   },
@@ -31,15 +31,17 @@
     "GeeksForGeeks_First_n_Fibonacci_using_Recursion": true,
     "GeeksForGeeks_Power_Using_Recursion": true,
     "GeeksForGeeks_Subsets": true,
-    "LeetCode_Squares_of_a_Sorted_Array": true
+    "LeetCode_Squares_of_a_Sorted_Array": true,
+    "LeetCode_Container_With_Most_Water": true
   },
   "activityHistory": {
     "2026-09-29": 7,
     "2026-10-01": 2,
     "2026-10-05": 11,
-    "2026-10-06": 1
+    "2026-10-06": 2
   },
   "todayProblems": [
-    "Squares of a Sorted Array"
+    "Squares of a Sorted Array",
+    "Container With Most Water"
   ]
 }
