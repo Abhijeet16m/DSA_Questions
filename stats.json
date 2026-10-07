@@ -1,12 +1,12 @@
 {
-  "totalSolved": 25,
+  "totalSolved": 26,
   "currentStreak": 3,
   "maxStreak": 3,
   "lastSyncDate": "2026-10-07",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 14,
-    "medium": 5,
+    "medium": 6,
     "hard": 0,
     "basic": 6
   },
@@ -35,16 +35,18 @@
     "LeetCode_Container_With_Most_Water": true,
     "LeetCode_3Sum": true,
     "LeetCode_Boats_to_Save_People": true,
-    "LeetCode_Fibonacci_Number": true
+    "LeetCode_Fibonacci_Number": true,
+    "LeetCode_Pow(x,_n)": true
   },
   "activityHistory": {
     "2026-09-29": 7,
     "2026-10-01": 2,
     "2026-10-05": 11,
     "2026-10-06": 4,
-    "2026-10-07": 1
+    "2026-10-07": 2
   },
   "todayProblems": [
-    "Fibonacci Number"
+    "Fibonacci Number",
+    "Pow(x, n)"
   ]
 }
