@@ -26,3 +26,4 @@
 | 24 | [Boats to Save People](./LeetCode/Medium/Boats%20to%20Save%20People) | [LeetCode](https://leetcode.com/problems/boats-to-save-people/) | Medium | 06 Oct 2026 | 10:42 am |
 | 25 | [Fibonacci Number](./LeetCode/Easy/Fibonacci%20Number) | [LeetCode](https://leetcode.com/problems/fibonacci-number/) | Easy | 07 Oct 2026 | 08:29 am |
 | 26 | [Pow(x, n)](./LeetCode/Medium/Pow(x%2C%20n)) | [LeetCode](https://leetcode.com/problems/powx-n/) | Medium | 07 Oct 2026 | 08:31 am |
+| 27 | [K-th Symbol in Grammar](./LeetCode/Medium/K-th%20Symbol%20in%20Grammar) | [LeetCode](https://leetcode.com/problems/k-th-symbol-in-grammar/) | Medium | 07 Oct 2026 | 09:35 am |
