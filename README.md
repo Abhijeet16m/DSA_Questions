@@ -28,3 +28,4 @@
 | 26 | [Pow(x, n)](./LeetCode/Medium/Pow(x%2C%20n)) | [LeetCode](https://leetcode.com/problems/powx-n/) | Medium | 07 Oct 2026 | 08:31 am |
 | 27 | [K-th Symbol in Grammar](./LeetCode/Medium/K-th%20Symbol%20in%20Grammar) | [LeetCode](https://leetcode.com/problems/k-th-symbol-in-grammar/) | Medium | 07 Oct 2026 | 09:35 am |
 | 28 | [Generate Parentheses](./LeetCode/Medium/Generate%20Parentheses) | [LeetCode](https://leetcode.com/problems/generate-parentheses/) | Medium | 07 Oct 2026 | 02:26 pm |
+| 29 | [Valid Binary Strings With Cost Limit](./LeetCode/Medium/Valid%20Binary%20Strings%20With%20Cost%20Limit) | [LeetCode](https://leetcode.com/problems/valid-binary-strings-with-cost-limit/) | Medium | 07 Oct 2026 | 03:34 pm |
