@@ -1,12 +1,12 @@
 {
-  "totalSolved": 29,
+  "totalSolved": 30,
   "currentStreak": 3,
   "maxStreak": 3,
   "lastSyncDate": "2026-10-07",
-  "todayCount": 5,
+  "todayCount": 6,
   "difficultyCounts": {
     "easy": 14,
-    "medium": 9,
+    "medium": 10,
     "hard": 0,
     "basic": 6
   },
@@ -39,20 +39,22 @@
     "LeetCode_Pow(x,_n)": true,
     "LeetCode_K-th_Symbol_in_Grammar": true,
     "LeetCode_Generate_Parentheses": true,
-    "LeetCode_Valid_Binary_Strings_With_Cost_Limit": true
+    "LeetCode_Valid_Binary_Strings_With_Cost_Limit": true,
+    "LeetCode_Beautiful_Arrangement": true
   },
   "activityHistory": {
     "2026-09-29": 7,
     "2026-10-01": 2,
     "2026-10-05": 11,
     "2026-10-06": 4,
-    "2026-10-07": 5
+    "2026-10-07": 6
   },
   "todayProblems": [
     "Fibonacci Number",
     "Pow(x, n)",
     "K-th Symbol in Grammar",
     "Generate Parentheses",
-    "Valid Binary Strings With Cost Limit"
+    "Valid Binary Strings With Cost Limit",
+    "Beautiful Arrangement"
   ]
 }
