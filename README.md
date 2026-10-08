@@ -32,3 +32,4 @@
 | 30 | [Beautiful Arrangement](./LeetCode/Medium/Beautiful%20Arrangement) | [LeetCode](https://leetcode.com/problems/beautiful-arrangement/) | Medium | 07 Oct 2026 | 03:50 pm |
 | 31 | [N-Queens](./LeetCode/Hard/N-Queens) | [LeetCode](https://leetcode.com/problems/n-queens/) | Hard | 08 Oct 2026 | 02:39 pm |
 | 32 | [Valid Parentheses](./LeetCode/Easy/Valid%20Parentheses) | [LeetCode](https://leetcode.com/problems/valid-parentheses/) | Easy | 08 Oct 2026 | 03:45 pm |
+| 33 | [Valid Triangle Number](./LeetCode/Medium/Valid%20Triangle%20Number) | [LeetCode](https://leetcode.com/problems/valid-triangle-number/) | Medium | 08 Oct 2026 | 08:24 pm |
