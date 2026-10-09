@@ -35,3 +35,4 @@
 | 33 | [Valid Triangle Number](./LeetCode/Medium/Valid%20Triangle%20Number) | [LeetCode](https://leetcode.com/problems/valid-triangle-number/) | Medium | 08 Oct 2026 | 08:24 pm |
 | 34 | [Trapping Rain Water](./LeetCode/Hard/Trapping%20Rain%20Water) | [LeetCode](https://leetcode.com/problems/trapping-rain-water/) | Hard | 09 Oct 2026 | 04:04 am |
 | 35 | [3Sum Closest](./LeetCode/Medium/3Sum%20Closest) | [LeetCode](https://leetcode.com/problems/3sum-closest/) | Medium | 09 Oct 2026 | 09:11 am |
+| 36 | [Minimum Window Substring](./LeetCode/Hard/Minimum%20Window%20Substring) | [LeetCode](https://leetcode.com/problems/minimum-window-substring/) | Hard | 09 Oct 2026 | 10:04 am |

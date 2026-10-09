@@ -1,13 +1,13 @@
 {
-  "totalSolved": 35,
+  "totalSolved": 36,
   "currentStreak": 5,
   "maxStreak": 5,
   "lastSyncDate": "2026-10-09",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 15,
     "medium": 12,
-    "hard": 2,
+    "hard": 3,
     "basic": 6
   },
   "syncedProblems": {
@@ -45,7 +45,8 @@
     "LeetCode_Valid_Parentheses": true,
     "LeetCode_Valid_Triangle_Number": true,
     "LeetCode_Trapping_Rain_Water": true,
-    "LeetCode_3Sum_Closest": true
+    "LeetCode_3Sum_Closest": true,
+    "LeetCode_Minimum_Window_Substring": true
   },
   "activityHistory": {
     "2026-09-29": 7,
@@ -54,10 +55,11 @@
     "2026-10-06": 4,
     "2026-10-07": 6,
     "2026-10-08": 3,
-    "2026-10-09": 2
+    "2026-10-09": 3
   },
   "todayProblems": [
     "Trapping Rain Water",
-    "3Sum Closest"
+    "3Sum Closest",
+    "Minimum Window Substring"
   ]
 }
