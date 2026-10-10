@@ -1,12 +1,12 @@
 {
-  "totalSolved": 57,
+  "totalSolved": 58,
   "currentStreak": 7,
   "maxStreak": 7,
   "lastSyncDate": "2026-10-11",
-  "todayCount": 10,
+  "todayCount": 11,
   "difficultyCounts": {
     "easy": 21,
-    "medium": 25,
+    "medium": 26,
     "hard": 5,
     "basic": 6
   },
@@ -67,7 +67,8 @@
     "LeetCode_Subsets": true,
     "LeetCode_Permutations": true,
     "LeetCode_Combination_Sum": true,
-    "LeetCode_Combination_Sum_II": true
+    "LeetCode_Combination_Sum_II": true,
+    "LeetCode_Word_Search": true
   },
   "activityHistory": {
     "2026-09-29": 7,
@@ -78,7 +79,7 @@
     "2026-10-08": 3,
     "2026-10-09": 3,
     "2026-10-10": 11,
-    "2026-10-11": 10
+    "2026-10-11": 11
   },
   "todayProblems": [
     "Height Checker",
@@ -90,6 +91,7 @@
     "Subsets",
     "Permutations",
     "Combination Sum",
-    "Combination Sum II"
+    "Combination Sum II",
+    "Word Search"
   ]
 }
