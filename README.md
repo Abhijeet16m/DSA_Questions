@@ -49,3 +49,4 @@
 | 47 | [Merge Sorted Array](./LeetCode/Easy/Merge%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/merge-sorted-array/) | Easy | 10 Oct 2026 | 11:50 pm |
 | 48 | [Height Checker](./LeetCode/Easy/Height%20Checker) | [LeetCode](https://leetcode.com/problems/height-checker/) | Easy | 11 Oct 2026 | 12:22 am |
 | 49 | [Sort Colors](./LeetCode/Medium/Sort%20Colors) | [LeetCode](https://leetcode.com/problems/sort-colors/) | Medium | 11 Oct 2026 | 12:24 am |
+| 50 | [Merge Intervals](./LeetCode/Medium/Merge%20Intervals) | [LeetCode](https://leetcode.com/problems/merge-intervals/) | Medium | 11 Oct 2026 | 12:42 am |
