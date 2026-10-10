@@ -1,12 +1,12 @@
 {
-  "totalSolved": 51,
+  "totalSolved": 52,
   "currentStreak": 7,
   "maxStreak": 7,
   "lastSyncDate": "2026-10-11",
-  "todayCount": 4,
+  "todayCount": 5,
   "difficultyCounts": {
     "easy": 21,
-    "medium": 19,
+    "medium": 20,
     "hard": 5,
     "basic": 6
   },
@@ -61,7 +61,8 @@
     "LeetCode_Height_Checker": true,
     "LeetCode_Sort_Colors": true,
     "LeetCode_Merge_Intervals": true,
-    "LeetCode_Largest_Number": true
+    "LeetCode_Largest_Number": true,
+    "LeetCode_Sort_an_Array": true
   },
   "activityHistory": {
     "2026-09-29": 7,
@@ -72,12 +73,13 @@
     "2026-10-08": 3,
     "2026-10-09": 3,
     "2026-10-10": 11,
-    "2026-10-11": 4
+    "2026-10-11": 5
   },
   "todayProblems": [
     "Height Checker",
     "Sort Colors",
     "Merge Intervals",
-    "Largest Number"
+    "Largest Number",
+    "Sort an Array"
   ]
 }
