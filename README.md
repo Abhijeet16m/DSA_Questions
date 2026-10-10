@@ -42,3 +42,4 @@
 | 40 | [Sqrt(x)](./LeetCode/Easy/Sqrt(x)) | [LeetCode](https://leetcode.com/problems/sqrtx/) | Easy | 10 Oct 2026 | 10:04 am |
 | 41 | [Find First and Last Position of Element in Sorted Array](./LeetCode/Medium/Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Medium | 10 Oct 2026 | 10:09 am |
 | 42 | [Search in Rotated Sorted Array](./LeetCode/Medium/Search%20in%20Rotated%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | 10 Oct 2026 | 10:26 am |
+| 43 | [Merge Sort](./GeeksForGeeks/Medium/Merge%20Sort) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/merge-sort/1) | Medium | 10 Oct 2026 | 02:41 pm |
