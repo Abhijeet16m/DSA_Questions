@@ -52,3 +52,4 @@
 | 50 | [Merge Intervals](./LeetCode/Medium/Merge%20Intervals) | [LeetCode](https://leetcode.com/problems/merge-intervals/) | Medium | 11 Oct 2026 | 12:42 am |
 | 51 | [Largest Number](./LeetCode/Medium/Largest%20Number) | [LeetCode](https://leetcode.com/problems/largest-number/) | Medium | 11 Oct 2026 | 01:46 am |
 | 52 | [Sort an Array](./LeetCode/Medium/Sort%20an%20Array) | [LeetCode](https://leetcode.com/problems/sort-an-array/) | Medium | 11 Oct 2026 | 01:52 am |
+| 53 | [Maximum Gap](./LeetCode/Medium/Maximum%20Gap) | [LeetCode](https://leetcode.com/problems/maximum-gap/) | Medium | 11 Oct 2026 | 02:03 am |
