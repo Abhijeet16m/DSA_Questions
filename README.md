@@ -40,3 +40,4 @@
 | 38 | [Binary Search](./LeetCode/Easy/Binary%20Search) | [LeetCode](https://leetcode.com/problems/binary-search/) | Easy | 10 Oct 2026 | 09:52 am |
 | 39 | [Search Insert Position](./LeetCode/Easy/Search%20Insert%20Position) | [LeetCode](https://leetcode.com/problems/search-insert-position/) | Easy | 10 Oct 2026 | 09:58 am |
 | 40 | [Sqrt(x)](./LeetCode/Easy/Sqrt(x)) | [LeetCode](https://leetcode.com/problems/sqrtx/) | Easy | 10 Oct 2026 | 10:04 am |
+| 41 | [Find First and Last Position of Element in Sorted Array](./LeetCode/Medium/Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Medium | 10 Oct 2026 | 10:09 am |
