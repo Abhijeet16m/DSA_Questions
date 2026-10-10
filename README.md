@@ -44,3 +44,4 @@
 | 42 | [Search in Rotated Sorted Array](./LeetCode/Medium/Search%20in%20Rotated%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | 10 Oct 2026 | 10:26 am |
 | 43 | [Merge Sort](./GeeksForGeeks/Medium/Merge%20Sort) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/merge-sort/1) | Medium | 10 Oct 2026 | 02:41 pm |
 | 44 | [Find Minimum in Rotated Sorted Array](./LeetCode/Medium/Find%20Minimum%20in%20Rotated%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Medium | 10 Oct 2026 | 03:11 pm |
+| 45 | [Median of Two Sorted Arrays](./LeetCode/Hard/Median%20of%20Two%20Sorted%20Arrays) | [LeetCode](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | 10 Oct 2026 | 10:08 pm |
