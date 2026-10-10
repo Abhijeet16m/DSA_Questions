@@ -1,12 +1,12 @@
 {
-  "totalSolved": 43,
+  "totalSolved": 44,
   "currentStreak": 6,
   "maxStreak": 6,
   "lastSyncDate": "2026-10-10",
-  "todayCount": 7,
+  "todayCount": 8,
   "difficultyCounts": {
     "easy": 19,
-    "medium": 15,
+    "medium": 16,
     "hard": 3,
     "basic": 6
   },
@@ -53,7 +53,8 @@
     "LeetCode_Sqrt(x)": true,
     "LeetCode_Find_First_and_Last_Position_of_Element_in_Sorted_Array": true,
     "LeetCode_Search_in_Rotated_Sorted_Array": true,
-    "GeeksForGeeks_Merge_Sort": true
+    "GeeksForGeeks_Merge_Sort": true,
+    "LeetCode_Find_Minimum_in_Rotated_Sorted_Array": true
   },
   "activityHistory": {
     "2026-09-29": 7,
@@ -63,7 +64,7 @@
     "2026-10-07": 6,
     "2026-10-08": 3,
     "2026-10-09": 3,
-    "2026-10-10": 7
+    "2026-10-10": 8
   },
   "todayProblems": [
     "Find the Index of the First Occurrence in a String",
@@ -72,6 +73,7 @@
     "Sqrt(x)",
     "Find First and Last Position of Element in Sorted Array",
     "Search in Rotated Sorted Array",
-    "Merge Sort"
+    "Merge Sort",
+    "Find Minimum in Rotated Sorted Array"
   ]
 }
