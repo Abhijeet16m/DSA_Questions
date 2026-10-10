@@ -54,3 +54,4 @@
 | 52 | [Sort an Array](./LeetCode/Medium/Sort%20an%20Array) | [LeetCode](https://leetcode.com/problems/sort-an-array/) | Medium | 11 Oct 2026 | 01:52 am |
 | 53 | [Maximum Gap](./LeetCode/Medium/Maximum%20Gap) | [LeetCode](https://leetcode.com/problems/maximum-gap/) | Medium | 11 Oct 2026 | 02:03 am |
 | 54 | [Permutations](./LeetCode/Medium/Permutations) | [LeetCode](https://leetcode.com/problems/permutations/) | Medium | 11 Oct 2026 | 02:22 am |
+| 55 | [Combination Sum](./LeetCode/Medium/Combination%20Sum) | [LeetCode](https://leetcode.com/problems/combination-sum/) | Medium | 11 Oct 2026 | 03:03 am |
