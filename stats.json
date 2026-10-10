@@ -1,11 +1,11 @@
 {
-  "totalSolved": 47,
-  "currentStreak": 6,
-  "maxStreak": 6,
-  "lastSyncDate": "2026-10-10",
-  "todayCount": 11,
+  "totalSolved": 48,
+  "currentStreak": 7,
+  "maxStreak": 7,
+  "lastSyncDate": "2026-10-11",
+  "todayCount": 1,
   "difficultyCounts": {
-    "easy": 20,
+    "easy": 21,
     "medium": 16,
     "hard": 5,
     "basic": 6
@@ -57,7 +57,8 @@
     "LeetCode_Find_Minimum_in_Rotated_Sorted_Array": true,
     "LeetCode_Median_of_Two_Sorted_Arrays": true,
     "LeetCode_Split_Array_Largest_Sum": true,
-    "LeetCode_Merge_Sorted_Array": true
+    "LeetCode_Merge_Sorted_Array": true,
+    "LeetCode_Height_Checker": true
   },
   "activityHistory": {
     "2026-09-29": 7,
@@ -67,19 +68,10 @@
     "2026-10-07": 6,
     "2026-10-08": 3,
     "2026-10-09": 3,
-    "2026-10-10": 11
+    "2026-10-10": 11,
+    "2026-10-11": 1
   },
   "todayProblems": [
-    "Find the Index of the First Occurrence in a String",
-    "Binary Search",
-    "Search Insert Position",
-    "Sqrt(x)",
-    "Find First and Last Position of Element in Sorted Array",
-    "Search in Rotated Sorted Array",
-    "Merge Sort",
-    "Find Minimum in Rotated Sorted Array",
-    "Median of Two Sorted Arrays",
-    "Split Array Largest Sum",
-    "Merge Sorted Array"
+    "Height Checker"
   ]
 }

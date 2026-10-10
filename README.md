@@ -47,3 +47,4 @@
 | 45 | [Median of Two Sorted Arrays](./LeetCode/Hard/Median%20of%20Two%20Sorted%20Arrays) | [LeetCode](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | 10 Oct 2026 | 10:08 pm |
 | 46 | [Split Array Largest Sum](./LeetCode/Hard/Split%20Array%20Largest%20Sum) | [LeetCode](https://leetcode.com/problems/split-array-largest-sum/) | Hard | 10 Oct 2026 | 11:46 pm |
 | 47 | [Merge Sorted Array](./LeetCode/Easy/Merge%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/merge-sorted-array/) | Easy | 10 Oct 2026 | 11:50 pm |
+| 48 | [Height Checker](./LeetCode/Easy/Height%20Checker) | [LeetCode](https://leetcode.com/problems/height-checker/) | Easy | 11 Oct 2026 | 12:22 am |
