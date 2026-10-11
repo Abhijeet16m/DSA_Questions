@@ -58,3 +58,4 @@
 | 56 | [Combination Sum II](./LeetCode/Medium/Combination%20Sum%20II) | [LeetCode](https://leetcode.com/problems/combination-sum-ii/) | Medium | 11 Oct 2026 | 03:13 am |
 | 57 | [Word Search](./LeetCode/Medium/Word%20Search) | [LeetCode](https://leetcode.com/problems/word-search/) | Medium | 11 Oct 2026 | 05:04 am |
 | 58 | [Sum of Squares of Special Elements ](./LeetCode/Easy/Sum%20of%20Squares%20of%20Special%20Elements%20) | [LeetCode](https://leetcode.com/problems/sum-of-squares-of-special-elements/) | Easy | 11 Oct 2026 | 10:08 am |
+| 59 | [706B - Interesting drink](./Codeforces/basic/706B%20-%20Interesting%20drink) | [Codeforces](https://codeforces.com/problemset/problem/706/B) | basic | 11 Oct 2026 | 02:46 pm |

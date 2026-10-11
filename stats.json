@@ -1,14 +1,14 @@
 {
-  "totalSolved": 59,
+  "totalSolved": 60,
   "currentStreak": 7,
   "maxStreak": 7,
   "lastSyncDate": "2026-10-11",
-  "todayCount": 12,
+  "todayCount": 13,
   "difficultyCounts": {
     "easy": 22,
     "medium": 26,
     "hard": 5,
-    "basic": 6
+    "basic": 7
   },
   "syncedProblems": {
     "LeetCode_Two_Sum": true,
@@ -69,7 +69,8 @@
     "LeetCode_Combination_Sum": true,
     "LeetCode_Combination_Sum_II": true,
     "LeetCode_Word_Search": true,
-    "LeetCode_Sum_of_Squares_of_Special_Elements_": true
+    "LeetCode_Sum_of_Squares_of_Special_Elements_": true,
+    "Codeforces_706B_-_Interesting_drink": true
   },
   "activityHistory": {
     "2026-09-29": 7,
@@ -80,7 +81,7 @@
     "2026-10-08": 3,
     "2026-10-09": 3,
     "2026-10-10": 11,
-    "2026-10-11": 12
+    "2026-10-11": 13
   },
   "todayProblems": [
     "Height Checker",
@@ -94,6 +95,7 @@
     "Combination Sum",
     "Combination Sum II",
     "Word Search",
-    "Sum of Squares of Special Elements "
+    "Sum of Squares of Special Elements ",
+    "706B - Interesting drink"
   ]
 }
