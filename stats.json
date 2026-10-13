@@ -1,14 +1,14 @@
 {
-  "totalSolved": 61,
-  "currentStreak": 7,
+  "totalSolved": 62,
+  "currentStreak": 1,
   "maxStreak": 7,
-  "lastSyncDate": "2026-10-11",
-  "todayCount": 14,
+  "lastSyncDate": "2026-10-13",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 22,
     "medium": 26,
     "hard": 5,
-    "basic": 8
+    "basic": 9
   },
   "syncedProblems": {
     "LeetCode_Two_Sum": true,
@@ -71,7 +71,8 @@
     "LeetCode_Word_Search": true,
     "LeetCode_Sum_of_Squares_of_Special_Elements_": true,
     "Codeforces_706B_-_Interesting_drink": true,
-    "Codeforces_474B_-_Worms": true
+    "Codeforces_474B_-_Worms": true,
+    "GeeksForGeeks_Print_Linked_List": true
   },
   "activityHistory": {
     "2026-09-29": 7,
@@ -82,22 +83,10 @@
     "2026-10-08": 3,
     "2026-10-09": 3,
     "2026-10-10": 11,
-    "2026-10-11": 14
+    "2026-10-11": 14,
+    "2026-10-13": 1
   },
   "todayProblems": [
-    "Height Checker",
-    "Sort Colors",
-    "Merge Intervals",
-    "Largest Number",
-    "Sort an Array",
-    "Maximum Gap",
-    "Subsets",
-    "Permutations",
-    "Combination Sum",
-    "Combination Sum II",
-    "Word Search",
-    "Sum of Squares of Special Elements ",
-    "706B - Interesting drink",
-    "474B - Worms"
+    "Print Linked List"
   ]
 }
