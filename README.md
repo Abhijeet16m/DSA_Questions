@@ -63,3 +63,4 @@
 | 61 | [Print Linked List](./GeeksForGeeks/Basic/Print%20Linked%20List) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/print-linked-list-elements/1) | Basic | 13 Oct 2026 | 02:44 pm |
 | 62 | [Search in Linked List](./GeeksForGeeks/Basic/Search%20in%20Linked%20List) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/search-in-linked-list-1664434326/1) | Basic | 13 Oct 2026 | 02:46 pm |
 | 63 | [Insert in a Singly Linked List](./GeeksForGeeks/Easy/Insert%20in%20a%20Singly%20Linked%20List) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/insertion-at-a-given-position-in-a-linked-list/1) | Easy | 13 Oct 2026 | 03:08 pm |
+| 64 | [Linked List Delete at Position](./GeeksForGeeks/Easy/Linked%20List%20Delete%20at%20Position) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/delete-a-node-in-single-linked-list/1) | Easy | 13 Oct 2026 | 03:24 pm |
