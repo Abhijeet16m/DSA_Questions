@@ -6,15 +6,22 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 3 |
+| 10 | 10 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [binary search](#binary-search) (1)
+- [brute force](#brute-force) (3)
+- [data structures](#data-structures) (1)
+- [greedy](#greedy) (4)
+- [hashing](#hashing) (1)
+- [implementation](#implementation) (6)
+- [math](#math) (3)
 - [sortings](#sortings) (1)
-- [two pointers](#two-pointers) (1)
+- [strings](#strings) (2)
+- [two pointers](#two-pointers) (4)
 
 ---
 
@@ -24,17 +31,75 @@
 |---|---------|------------|----------|
 | 580B | [Kefa and Company](https://codeforces.com/contest/580/problem/B) | 1500 | [C++17 (GCC 7-32)](https://github.com/Abhijeet16m/DSA_Questions/blob/HEAD/580/B%20-%20Kefa%20and%20Company/solution.cpp) |
 
+### brute force
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Abhijeet16m/DSA_Questions/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
+| 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Abhijeet16m/DSA_Questions/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
+| 1462C | [Unique Number](https://codeforces.com/contest/1462/problem/C) | 900 | [C++17 (GCC 7-32)](https://github.com/Abhijeet16m/DSA_Questions/blob/HEAD/1462/C%20-%20Unique%20Number/solution.cpp) |
+
+### data structures
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 4C | [Registration System](https://codeforces.com/contest/4/problem/C) | 1300 | [C++17 (GCC 7-32)](https://github.com/Abhijeet16m/DSA_Questions/blob/HEAD/4/C%20-%20Registration%20System/solution.cpp) |
+
+### greedy
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 381A | [Sereja and Dima](https://codeforces.com/contest/381/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Abhijeet16m/DSA_Questions/blob/HEAD/381/A%20-%20Sereja%20and%20Dima/solution.cpp) |
+| 1462C | [Unique Number](https://codeforces.com/contest/1462/problem/C) | 900 | [C++17 (GCC 7-32)](https://github.com/Abhijeet16m/DSA_Questions/blob/HEAD/1462/C%20-%20Unique%20Number/solution.cpp) |
+| 1968B | [Prefiquence](https://codeforces.com/contest/1968/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Abhijeet16m/DSA_Questions/blob/HEAD/1968/B%20-%20Prefiquence/solution.cpp) |
+| 2267A | [Turn Into a Palindrome](https://codeforces.com/contest/2267/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Abhijeet16m/DSA_Questions/blob/HEAD/2267/A%20-%20Turn%20Into%20a%20Palindrome/solution.cpp) |
+
+### hashing
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 4C | [Registration System](https://codeforces.com/contest/4/problem/C) | 1300 | [C++17 (GCC 7-32)](https://github.com/Abhijeet16m/DSA_Questions/blob/HEAD/4/C%20-%20Registration%20System/solution.cpp) |
+
+### implementation
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 4C | [Registration System](https://codeforces.com/contest/4/problem/C) | 1300 | [C++17 (GCC 7-32)](https://github.com/Abhijeet16m/DSA_Questions/blob/HEAD/4/C%20-%20Registration%20System/solution.cpp) |
+| 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Abhijeet16m/DSA_Questions/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
+| 381A | [Sereja and Dima](https://codeforces.com/contest/381/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Abhijeet16m/DSA_Questions/blob/HEAD/381/A%20-%20Sereja%20and%20Dima/solution.cpp) |
+| 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Abhijeet16m/DSA_Questions/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
+| 1462A | [Favorite Sequence](https://codeforces.com/contest/1462/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Abhijeet16m/DSA_Questions/blob/HEAD/1462/A%20-%20Favorite%20Sequence/solution.cpp) |
+| 2227A | [Koshary](https://codeforces.com/contest/2227/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Abhijeet16m/DSA_Questions/blob/HEAD/2227/A%20-%20Koshary/solution.cpp) |
+
+### math
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Abhijeet16m/DSA_Questions/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
+| 1462C | [Unique Number](https://codeforces.com/contest/1462/problem/C) | 900 | [C++17 (GCC 7-32)](https://github.com/Abhijeet16m/DSA_Questions/blob/HEAD/1462/C%20-%20Unique%20Number/solution.cpp) |
+| 2227A | [Koshary](https://codeforces.com/contest/2227/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Abhijeet16m/DSA_Questions/blob/HEAD/2227/A%20-%20Koshary/solution.cpp) |
+
 ### sortings
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 580B | [Kefa and Company](https://codeforces.com/contest/580/problem/B) | 1500 | [C++17 (GCC 7-32)](https://github.com/Abhijeet16m/DSA_Questions/blob/HEAD/580/B%20-%20Kefa%20and%20Company/solution.cpp) |
 
+### strings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Abhijeet16m/DSA_Questions/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
+| 2267A | [Turn Into a Palindrome](https://codeforces.com/contest/2267/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Abhijeet16m/DSA_Questions/blob/HEAD/2267/A%20-%20Turn%20Into%20a%20Palindrome/solution.cpp) |
+
 ### two pointers
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 381A | [Sereja and Dima](https://codeforces.com/contest/381/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Abhijeet16m/DSA_Questions/blob/HEAD/381/A%20-%20Sereja%20and%20Dima/solution.cpp) |
 | 580B | [Kefa and Company](https://codeforces.com/contest/580/problem/B) | 1500 | [C++17 (GCC 7-32)](https://github.com/Abhijeet16m/DSA_Questions/blob/HEAD/580/B%20-%20Kefa%20and%20Company/solution.cpp) |
+| 1462A | [Favorite Sequence](https://codeforces.com/contest/1462/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Abhijeet16m/DSA_Questions/blob/HEAD/1462/A%20-%20Favorite%20Sequence/solution.cpp) |
+| 1968B | [Prefiquence](https://codeforces.com/contest/1968/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/Abhijeet16m/DSA_Questions/blob/HEAD/1968/B%20-%20Prefiquence/solution.cpp) |
 
 ---
 
