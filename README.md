@@ -66,3 +66,4 @@
 | 64 | [Linked List Delete at Position](./GeeksForGeeks/Easy/Linked%20List%20Delete%20at%20Position) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/delete-a-node-in-single-linked-list/1) | Easy | 13 Oct 2026 | 03:24 pm |
 | 65 | [Reverse a Linked List](./GeeksForGeeks/Easy/Reverse%20a%20Linked%20List) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/reverse-a-linked-list/1) | Easy | 13 Oct 2026 | 03:53 pm |
 | 66 | [Merge Two Sorted Lists](./LeetCode/Easy/Merge%20Two%20Sorted%20Lists) | [LeetCode](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | 14 Oct 2026 | 02:10 pm |
+| 67 | [Rotate List](./LeetCode/Medium/Rotate%20List) | [LeetCode](https://leetcode.com/problems/rotate-list/) | Medium | 14 Oct 2026 | 02:54 pm |
