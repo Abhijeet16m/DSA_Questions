@@ -1,12 +1,12 @@
 {
-  "totalSolved": 72,
+  "totalSolved": 73,
   "currentStreak": 2,
   "maxStreak": 7,
   "lastSyncDate": "2026-10-14",
-  "todayCount": 6,
+  "todayCount": 7,
   "difficultyCounts": {
     "easy": 27,
-    "medium": 30,
+    "medium": 31,
     "hard": 5,
     "basic": 10
   },
@@ -82,7 +82,8 @@
     "LeetCode_Add_Two_Numbers": true,
     "LeetCode_Linked_List_Cycle": true,
     "LeetCode_Remove_Duplicates_from_Sorted_List_II": true,
-    "LeetCode_Next_Permutation": true
+    "LeetCode_Next_Permutation": true,
+    "LeetCode_Count_and_Say": true
   },
   "activityHistory": {
     "2026-09-29": 7,
@@ -95,7 +96,7 @@
     "2026-10-10": 11,
     "2026-10-11": 14,
     "2026-10-13": 5,
-    "2026-10-14": 6
+    "2026-10-14": 7
   },
   "todayProblems": [
     "Merge Two Sorted Lists",
@@ -103,6 +104,7 @@
     "Add Two Numbers",
     "Linked List Cycle",
     "Remove Duplicates from Sorted List II",
-    "Next Permutation"
+    "Next Permutation",
+    "Count and Say"
   ]
 }
