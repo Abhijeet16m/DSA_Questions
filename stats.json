@@ -1,12 +1,12 @@
 {
-  "totalSolved": 82,
-  "currentStreak": 3,
+  "totalSolved": 83,
+  "currentStreak": 4,
   "maxStreak": 7,
-  "lastSyncDate": "2026-10-15",
-  "todayCount": 8,
+  "lastSyncDate": "2026-10-16",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 31,
-    "medium": 32,
+    "medium": 33,
     "hard": 6,
     "basic": 13
   },
@@ -92,7 +92,8 @@
     "LeetCode_Binary_Tree_Level_Order_Traversal": true,
     "LeetCode_Binary_Tree_Inorder_Traversal": true,
     "LeetCode_Same_Tree": true,
-    "LeetCode_Maximum_Depth_of_Binary_Tree": true
+    "LeetCode_Maximum_Depth_of_Binary_Tree": true,
+    "LeetCode_Binary_Tree_Level_Order_Traversal_II": true
   },
   "activityHistory": {
     "2026-09-29": 7,
@@ -106,16 +107,10 @@
     "2026-10-11": 14,
     "2026-10-13": 5,
     "2026-10-14": 8,
-    "2026-10-15": 8
+    "2026-10-15": 8,
+    "2026-10-16": 1
   },
   "todayProblems": [
-    "Inorder Traversal",
-    "Preorder Traversal",
-    "Postorder Traversal",
-    "Height of Binary Tree",
-    "Binary Tree Level Order Traversal",
-    "Binary Tree Inorder Traversal",
-    "Same Tree",
-    "Maximum Depth of Binary Tree"
+    "Binary Tree Level Order Traversal II"
   ]
 }

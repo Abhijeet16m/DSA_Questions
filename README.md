@@ -11,3 +11,4 @@
 | 9 | [Binary Tree Inorder Traversal](./LeetCode/Easy/Binary%20Tree%20Inorder%20Traversal) | [LeetCode](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Easy | 15 Oct 2026 | 10:35 pm |
 | 10 | [Same Tree](./LeetCode/Easy/Same%20Tree) | [LeetCode](https://leetcode.com/problems/same-tree/) | Easy | 15 Oct 2026 | 10:38 pm |
 | 11 | [Maximum Depth of Binary Tree](./LeetCode/Easy/Maximum%20Depth%20of%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | 15 Oct 2026 | 10:42 pm |
+| 12 | [Binary Tree Level Order Traversal II](./LeetCode/Medium/Binary%20Tree%20Level%20Order%20Traversal%20II) | [LeetCode](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | Medium | 16 Oct 2026 | 12:08 am |
