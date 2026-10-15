@@ -1,14 +1,14 @@
 {
-  "totalSolved": 75,
+  "totalSolved": 76,
   "currentStreak": 3,
   "maxStreak": 7,
   "lastSyncDate": "2026-10-15",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 27,
     "medium": 31,
     "hard": 6,
-    "basic": 11
+    "basic": 12
   },
   "syncedProblems": {
     "LeetCode_Two_Sum": true,
@@ -85,7 +85,8 @@
     "LeetCode_Next_Permutation": true,
     "LeetCode_Count_and_Say": true,
     "LeetCode_First_Missing_Positive": true,
-    "GeeksForGeeks_Inorder_Traversal": true
+    "GeeksForGeeks_Inorder_Traversal": true,
+    "GeeksForGeeks_Preorder_Traversal": true
   },
   "activityHistory": {
     "2026-09-29": 7,
@@ -99,9 +100,10 @@
     "2026-10-11": 14,
     "2026-10-13": 5,
     "2026-10-14": 8,
-    "2026-10-15": 1
+    "2026-10-15": 2
   },
   "todayProblems": [
-    "Inorder Traversal"
+    "Inorder Traversal",
+    "Preorder Traversal"
   ]
 }
