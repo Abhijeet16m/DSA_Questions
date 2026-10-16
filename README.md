@@ -27,3 +27,4 @@
 | 25 | [Min and Max in Array](./GeeksForGeeks/Basic/Min%20and%20Max%20in%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428/1) | Basic | 17 Oct 2026 | 03:23 am |
 | 26 | [Rotate Array by One](./GeeksForGeeks/Basic/Rotate%20Array%20by%20One) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1) | Basic | 17 Oct 2026 | 03:24 am |
 | 27 | [Reverse Array in Groups](./GeeksForGeeks/Basic/Reverse%20Array%20in%20Groups) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/reverse-array-in-groups0255/1) | Basic | 17 Oct 2026 | 03:29 am |
+| 28 | [Sum of Array](./GeeksForGeeks/Basic/Sum%20of%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/sum-all-array-elements/1) | Basic | 17 Oct 2026 | 03:30 am |
