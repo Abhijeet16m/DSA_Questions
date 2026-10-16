@@ -28,3 +28,4 @@
 | 26 | [Rotate Array by One](./GeeksForGeeks/Basic/Rotate%20Array%20by%20One) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1) | Basic | 17 Oct 2026 | 03:24 am |
 | 27 | [Reverse Array in Groups](./GeeksForGeeks/Basic/Reverse%20Array%20in%20Groups) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/reverse-array-in-groups0255/1) | Basic | 17 Oct 2026 | 03:29 am |
 | 28 | [Sum of Array](./GeeksForGeeks/Basic/Sum%20of%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/sum-all-array-elements/1) | Basic | 17 Oct 2026 | 03:30 am |
+| 29 | [Array with All Palindromes](./GeeksForGeeks/Basic/Array%20with%20All%20Palindromes) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/palindromic-array-1587115620/1) | Basic | 17 Oct 2026 | 03:33 am |
