@@ -1,14 +1,14 @@
 {
-  "totalSolved": 100,
+  "totalSolved": 101,
   "currentStreak": 5,
   "maxStreak": 7,
   "lastSyncDate": "2026-10-17",
-  "todayCount": 10,
+  "todayCount": 11,
   "difficultyCounts": {
     "easy": 36,
     "medium": 35,
     "hard": 6,
-    "basic": 23
+    "basic": 24
   },
   "syncedProblems": {
     "LeetCode_Two_Sum": true,
@@ -110,7 +110,8 @@
     "GeeksForGeeks_Rotate_Array_by_One": true,
     "GeeksForGeeks_Reverse_Array_in_Groups": true,
     "GeeksForGeeks_Sum_of_Array": true,
-    "GeeksForGeeks_Array_with_All_Palindromes": true
+    "GeeksForGeeks_Array_with_All_Palindromes": true,
+    "GeeksForGeeks_Replace_all_0's_with_5": true
   },
   "activityHistory": {
     "2026-09-29": 7,
@@ -126,7 +127,7 @@
     "2026-10-14": 8,
     "2026-10-15": 8,
     "2026-10-16": 8,
-    "2026-10-17": 10
+    "2026-10-17": 11
   },
   "todayProblems": [
     "Left View of Binary Tree",
@@ -138,6 +139,7 @@
     "Rotate Array by One",
     "Reverse Array in Groups",
     "Sum of Array",
-    "Array with All Palindromes"
+    "Array with All Palindromes",
+    "Replace all 0's with 5"
   ]
 }
