@@ -18,3 +18,4 @@
 | 16 | [Zig-Zag Tree Traversal](./GeeksForGeeks/Medium/Zig-Zag%20Tree%20Traversal) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/zigzag-tree-traversal/1) | Medium | 16 Oct 2026 | 12:28 pm |
 | 17 | [Balanced Binary Tree](./LeetCode/Easy/Balanced%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/balanced-binary-tree/) | Easy | 16 Oct 2026 | 12:51 pm |
 | 18 | [Count Internal Nodes in Tree](./GeeksForGeeks/Basic/Count%20Internal%20Nodes%20in%20Tree) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-non-leaf-nodes-in-tree/1) | Basic | 16 Oct 2026 | 09:36 pm |
+| 19 | [Size of Binary Tree](./GeeksForGeeks/Basic/Size%20of%20Binary%20Tree) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/size-of-binary-tree/1) | Basic | 16 Oct 2026 | 09:37 pm |

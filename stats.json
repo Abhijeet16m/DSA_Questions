@@ -1,14 +1,14 @@
 {
-  "totalSolved": 89,
+  "totalSolved": 90,
   "currentStreak": 4,
   "maxStreak": 7,
   "lastSyncDate": "2026-10-16",
-  "todayCount": 7,
+  "todayCount": 8,
   "difficultyCounts": {
     "easy": 33,
     "medium": 34,
     "hard": 6,
-    "basic": 16
+    "basic": 17
   },
   "syncedProblems": {
     "LeetCode_Two_Sum": true,
@@ -99,7 +99,8 @@
     "GeeksForGeeks_Sum_of_Binary_Tree": true,
     "GeeksForGeeks_Zig-Zag_Tree_Traversal": true,
     "LeetCode_Balanced_Binary_Tree": true,
-    "GeeksForGeeks_Count_Internal_Nodes_in_Tree": true
+    "GeeksForGeeks_Count_Internal_Nodes_in_Tree": true,
+    "GeeksForGeeks_Size_of_Binary_Tree": true
   },
   "activityHistory": {
     "2026-09-29": 7,
@@ -114,7 +115,7 @@
     "2026-10-13": 5,
     "2026-10-14": 8,
     "2026-10-15": 8,
-    "2026-10-16": 7
+    "2026-10-16": 8
   },
   "todayProblems": [
     "Binary Tree Level Order Traversal II",
@@ -123,6 +124,7 @@
     "Sum of Binary Tree",
     "Zig-Zag Tree Traversal",
     "Balanced Binary Tree",
-    "Count Internal Nodes in Tree"
+    "Count Internal Nodes in Tree",
+    "Size of Binary Tree"
   ]
 }
