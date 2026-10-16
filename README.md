@@ -14,3 +14,4 @@
 | 12 | [Binary Tree Level Order Traversal II](./LeetCode/Medium/Binary%20Tree%20Level%20Order%20Traversal%20II) | [LeetCode](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | Medium | 16 Oct 2026 | 12:08 am |
 | 13 | [Max and Min in Binary Tree](./GeeksForGeeks/Easy/Max%20and%20Min%20in%20Binary%20Tree) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/max-and-min-element-in-binary-tree/1) | Easy | 16 Oct 2026 | 12:09 pm |
 | 14 | [Count Leaves in Binary Tree](./GeeksForGeeks/Basic/Count%20Leaves%20in%20Binary%20Tree) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-leaves-in-binary-tree/1) | Basic | 16 Oct 2026 | 12:13 pm |
+| 15 | [Sum of Binary Tree](./GeeksForGeeks/Basic/Sum%20of%20Binary%20Tree) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/sum-of-binary-tree/1) | Basic | 16 Oct 2026 | 12:14 pm |
