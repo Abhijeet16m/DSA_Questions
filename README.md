@@ -24,3 +24,4 @@
 | 22 | [Level Order Traversal](./GeeksForGeeks/Easy/Level%20Order%20Traversal) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/level-order-traversal/1) | Easy | 17 Oct 2026 | 02:29 am |
 | 23 | [Sum Tree](./GeeksForGeeks/Medium/Sum%20Tree) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/sum-tree/1) | Medium | 17 Oct 2026 | 02:42 am |
 | 24 | [Largest in Array](./GeeksForGeeks/Basic/Largest%20in%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/largest-element-in-array4009/1) | Basic | 17 Oct 2026 | 03:22 am |
+| 25 | [Min and Max in Array](./GeeksForGeeks/Basic/Min%20and%20Max%20in%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428/1) | Basic | 17 Oct 2026 | 03:23 am |
