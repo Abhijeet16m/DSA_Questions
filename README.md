@@ -20,3 +20,4 @@
 | 18 | [Count Internal Nodes in Tree](./GeeksForGeeks/Basic/Count%20Internal%20Nodes%20in%20Tree) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-non-leaf-nodes-in-tree/1) | Basic | 16 Oct 2026 | 09:36 pm |
 | 19 | [Size of Binary Tree](./GeeksForGeeks/Basic/Size%20of%20Binary%20Tree) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/size-of-binary-tree/1) | Basic | 16 Oct 2026 | 09:37 pm |
 | 20 | [Left View of Binary Tree](./GeeksForGeeks/Easy/Left%20View%20of%20Binary%20Tree) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/left-view-of-binary-tree/1) | Easy | 17 Oct 2026 | 02:18 am |
+| 21 | [Balanced Tree Check](./GeeksForGeeks/Easy/Balanced%20Tree%20Check) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/check-for-balanced-tree/1) | Easy | 17 Oct 2026 | 02:26 am |
