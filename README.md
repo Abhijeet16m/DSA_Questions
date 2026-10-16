@@ -25,3 +25,4 @@
 | 23 | [Sum Tree](./GeeksForGeeks/Medium/Sum%20Tree) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/sum-tree/1) | Medium | 17 Oct 2026 | 02:42 am |
 | 24 | [Largest in Array](./GeeksForGeeks/Basic/Largest%20in%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/largest-element-in-array4009/1) | Basic | 17 Oct 2026 | 03:22 am |
 | 25 | [Min and Max in Array](./GeeksForGeeks/Basic/Min%20and%20Max%20in%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428/1) | Basic | 17 Oct 2026 | 03:23 am |
+| 26 | [Rotate Array by One](./GeeksForGeeks/Basic/Rotate%20Array%20by%20One) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1) | Basic | 17 Oct 2026 | 03:24 am |
