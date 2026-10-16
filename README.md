@@ -22,3 +22,4 @@
 | 20 | [Left View of Binary Tree](./GeeksForGeeks/Easy/Left%20View%20of%20Binary%20Tree) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/left-view-of-binary-tree/1) | Easy | 17 Oct 2026 | 02:18 am |
 | 21 | [Balanced Tree Check](./GeeksForGeeks/Easy/Balanced%20Tree%20Check) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/check-for-balanced-tree/1) | Easy | 17 Oct 2026 | 02:26 am |
 | 22 | [Level Order Traversal](./GeeksForGeeks/Easy/Level%20Order%20Traversal) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/level-order-traversal/1) | Easy | 17 Oct 2026 | 02:29 am |
+| 23 | [Sum Tree](./GeeksForGeeks/Medium/Sum%20Tree) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/sum-tree/1) | Medium | 17 Oct 2026 | 02:42 am |
