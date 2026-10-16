@@ -15,3 +15,4 @@
 | 13 | [Max and Min in Binary Tree](./GeeksForGeeks/Easy/Max%20and%20Min%20in%20Binary%20Tree) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/max-and-min-element-in-binary-tree/1) | Easy | 16 Oct 2026 | 12:09 pm |
 | 14 | [Count Leaves in Binary Tree](./GeeksForGeeks/Basic/Count%20Leaves%20in%20Binary%20Tree) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-leaves-in-binary-tree/1) | Basic | 16 Oct 2026 | 12:13 pm |
 | 15 | [Sum of Binary Tree](./GeeksForGeeks/Basic/Sum%20of%20Binary%20Tree) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/sum-of-binary-tree/1) | Basic | 16 Oct 2026 | 12:14 pm |
+| 16 | [Zig-Zag Tree Traversal](./GeeksForGeeks/Medium/Zig-Zag%20Tree%20Traversal) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/zigzag-tree-traversal/1) | Medium | 16 Oct 2026 | 12:28 pm |
