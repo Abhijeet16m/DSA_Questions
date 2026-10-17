@@ -33,3 +33,4 @@
 | 31 | [Binary Tree Right Side View](./LeetCode/Medium/Binary%20Tree%20Right%20Side%20View) | [LeetCode](https://leetcode.com/problems/binary-tree-right-side-view/) | Medium | 17 Oct 2026 | 12:08 pm |
 | 32 | [Diameter of Binary Tree](./LeetCode/Easy/Diameter%20of%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/diameter-of-binary-tree/) | Easy | 17 Oct 2026 | 12:35 pm |
 | 33 | [Nodes at Distance in Binary Tree](./GeeksForGeeks/Hard/Nodes%20at%20Distance%20in%20Binary%20Tree) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/nodes-at-given-distance-in-binary-tree/1) | Hard | 17 Oct 2026 | 01:53 pm |
+| 34 | [All Nodes Distance K in Binary Tree](./LeetCode/Medium/All%20Nodes%20Distance%20K%20in%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | Medium | 17 Oct 2026 | 02:46 pm |
