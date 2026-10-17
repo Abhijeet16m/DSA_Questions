@@ -37,3 +37,4 @@
 | 35 | [Identical Trees](./GeeksForGeeks/Easy/Identical%20Trees) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/determine-if-two-trees-are-identical/1) | Easy | 17 Oct 2026 | 02:59 pm |
 | 36 | [Right View of Binary Tree](./GeeksForGeeks/Easy/Right%20View%20of%20Binary%20Tree) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/right-view-of-binary-tree/1) | Easy | 17 Oct 2026 | 03:02 pm |
 | 37 | [Symmetric Tree](./GeeksForGeeks/Easy/Symmetric%20Tree) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/symmetric-tree/1) | Easy | 17 Oct 2026 | 05:03 pm |
+| 38 | [Nodes Without Sibling](./GeeksForGeeks/Easy/Nodes%20Without%20Sibling) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/print-all-nodes-that-dont-have-sibling/1) | Easy | 17 Oct 2026 | 05:25 pm |
