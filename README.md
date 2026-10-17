@@ -30,3 +30,4 @@
 | 28 | [Sum of Array](./GeeksForGeeks/Basic/Sum%20of%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/sum-all-array-elements/1) | Basic | 17 Oct 2026 | 03:30 am |
 | 29 | [Array with All Palindromes](./GeeksForGeeks/Basic/Array%20with%20All%20Palindromes) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/palindromic-array-1587115620/1) | Basic | 17 Oct 2026 | 03:33 am |
 | 30 | [Replace all 0's with 5](./GeeksForGeeks/Basic/Replace%20all%200's%20with%205) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/replace-all-0s-with-5/1) | Basic | 17 Oct 2026 | 03:36 am |
+| 31 | [Binary Tree Right Side View](./LeetCode/Medium/Binary%20Tree%20Right%20Side%20View) | [LeetCode](https://leetcode.com/problems/binary-tree-right-side-view/) | Medium | 17 Oct 2026 | 12:08 pm |
