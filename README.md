@@ -36,3 +36,4 @@
 | 34 | [All Nodes Distance K in Binary Tree](./LeetCode/Medium/All%20Nodes%20Distance%20K%20in%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | Medium | 17 Oct 2026 | 02:46 pm |
 | 35 | [Identical Trees](./GeeksForGeeks/Easy/Identical%20Trees) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/determine-if-two-trees-are-identical/1) | Easy | 17 Oct 2026 | 02:59 pm |
 | 36 | [Right View of Binary Tree](./GeeksForGeeks/Easy/Right%20View%20of%20Binary%20Tree) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/right-view-of-binary-tree/1) | Easy | 17 Oct 2026 | 03:02 pm |
+| 37 | [Symmetric Tree](./GeeksForGeeks/Easy/Symmetric%20Tree) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/symmetric-tree/1) | Easy | 17 Oct 2026 | 05:03 pm |
