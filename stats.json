@@ -1,12 +1,12 @@
 {
-  "totalSolved": 116,
+  "totalSolved": 117,
   "currentStreak": 6,
   "maxStreak": 7,
   "lastSyncDate": "2026-10-18",
-  "todayCount": 6,
+  "todayCount": 7,
   "difficultyCounts": {
     "easy": 45,
-    "medium": 40,
+    "medium": 41,
     "hard": 7,
     "basic": 24
   },
@@ -126,7 +126,8 @@
     "LeetCode_Symmetric_Tree": true,
     "LeetCode_Binary_Tree_Zigzag_Level_Order_Traversal": true,
     "LeetCode_Minimum_Depth_of_Binary_Tree": true,
-    "GeeksForGeeks_Search_in_BST": true
+    "GeeksForGeeks_Search_in_BST": true,
+    "LeetCode_Lowest_Common_Ancestor_of_a_Binary_Tree": true
   },
   "activityHistory": {
     "2026-09-29": 7,
@@ -143,7 +144,7 @@
     "2026-10-15": 8,
     "2026-10-16": 8,
     "2026-10-17": 20,
-    "2026-10-18": 6
+    "2026-10-18": 7
   },
   "todayProblems": [
     "Diameter of Binary Tree",
@@ -151,6 +152,7 @@
     "Symmetric Tree",
     "Binary Tree Zigzag Level Order Traversal",
     "Minimum Depth of Binary Tree",
-    "Search in BST"
+    "Search in BST",
+    "Lowest Common Ancestor of a Binary Tree"
   ]
 }

@@ -43,3 +43,4 @@
 | 41 | [Binary Tree Zigzag Level Order Traversal](./LeetCode/Medium/Binary%20Tree%20Zigzag%20Level%20Order%20Traversal) | [LeetCode](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | Medium | 18 Oct 2026 | 09:13 am |
 | 42 | [Minimum Depth of Binary Tree](./LeetCode/Easy/Minimum%20Depth%20of%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | Easy | 18 Oct 2026 | 09:18 am |
 | 43 | [Search in BST](./GeeksForGeeks/Easy/Search%20in%20BST) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/search-a-node-in-bst/1) | Easy | 18 Oct 2026 | 12:21 pm |
+| 44 | [Lowest Common Ancestor of a Binary Tree](./LeetCode/Medium/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | Medium | 18 Oct 2026 | 12:23 pm |
