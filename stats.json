@@ -1,11 +1,11 @@
 {
-  "totalSolved": 135,
+  "totalSolved": 136,
   "currentStreak": 6,
   "maxStreak": 7,
   "lastSyncDate": "2026-10-18",
-  "todayCount": 25,
+  "todayCount": 26,
   "difficultyCounts": {
-    "easy": 59,
+    "easy": 60,
     "medium": 44,
     "hard": 7,
     "basic": 25
@@ -145,7 +145,8 @@
     "GeeksForGeeks_Minimum_Depth_of_a_Binary_Tree": true,
     "GeeksForGeeks_Introduction_to_Trees": true,
     "GeeksForGeeks_Binary_Tree_Representation": true,
-    "GeeksForGeeks_Two_Mirror_Trees": true
+    "GeeksForGeeks_Two_Mirror_Trees": true,
+    "LeetCode_Find_Mode_in_Binary_Search_Tree": true
   },
   "activityHistory": {
     "2026-09-29": 7,
@@ -162,7 +163,7 @@
     "2026-10-15": 8,
     "2026-10-16": 8,
     "2026-10-17": 20,
-    "2026-10-18": 25
+    "2026-10-18": 26
   },
   "todayProblems": [
     "Diameter of Binary Tree",
@@ -189,6 +190,7 @@
     "Minimum Depth of a Binary Tree",
     "Introduction to Trees",
     "Binary Tree Representation",
-    "Two Mirror Trees"
+    "Two Mirror Trees",
+    "Find Mode in Binary Search Tree"
   ]
 }

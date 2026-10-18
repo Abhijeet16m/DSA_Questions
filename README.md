@@ -62,3 +62,4 @@
 | 60 | [Introduction to Trees](./GeeksForGeeks/Easy/Introduction%20to%20Trees) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/introduction-to-trees/1) | Easy | 18 Oct 2026 | 10:25 pm |
 | 61 | [Binary Tree Representation](./GeeksForGeeks/Easy/Binary%20Tree%20Representation) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/binary-tree-representation/1) | Easy | 18 Oct 2026 | 10:29 pm |
 | 62 | [Two Mirror Trees](./GeeksForGeeks/Easy/Two%20Mirror%20Trees) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/two-mirror-trees/1) | Easy | 18 Oct 2026 | 10:34 pm |
+| 63 | [Find Mode in Binary Search Tree](./LeetCode/Easy/Find%20Mode%20in%20Binary%20Search%20Tree) | [LeetCode](https://leetcode.com/problems/find-mode-in-binary-search-tree/) | Easy | 18 Oct 2026 | 10:48 pm |
