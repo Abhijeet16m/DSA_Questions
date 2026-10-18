@@ -41,3 +41,4 @@
 | 39 | [Root to Leaf Path Sum](./GeeksForGeeks/Easy/Root%20to%20Leaf%20Path%20Sum) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/root-to-leaf-path-sum/1) | Easy | 17 Oct 2026 | 06:02 pm |
 | 40 | [Children Sum in a Binary Tree](./GeeksForGeeks/Medium/Children%20Sum%20in%20a%20Binary%20Tree) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/children-sum-parent/1) | Medium | 18 Oct 2026 | 08:49 am |
 | 41 | [Binary Tree Zigzag Level Order Traversal](./LeetCode/Medium/Binary%20Tree%20Zigzag%20Level%20Order%20Traversal) | [LeetCode](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | Medium | 18 Oct 2026 | 09:13 am |
+| 42 | [Minimum Depth of Binary Tree](./LeetCode/Easy/Minimum%20Depth%20of%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | Easy | 18 Oct 2026 | 09:18 am |
