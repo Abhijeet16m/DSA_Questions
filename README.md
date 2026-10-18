@@ -60,3 +60,4 @@
 | 58 | [Array Search](./GeeksForGeeks/Basic/Array%20Search) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1) | Basic | 18 Oct 2026 | 10:16 pm |
 | 59 | [Minimum Depth of a Binary Tree](./GeeksForGeeks/Easy/Minimum%20Depth%20of%20a%20Binary%20Tree) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/minimum-depth-of-a-binary-tree/1) | Easy | 18 Oct 2026 | 10:24 pm |
 | 60 | [Introduction to Trees](./GeeksForGeeks/Easy/Introduction%20to%20Trees) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/introduction-to-trees/1) | Easy | 18 Oct 2026 | 10:25 pm |
+| 61 | [Binary Tree Representation](./GeeksForGeeks/Easy/Binary%20Tree%20Representation) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/binary-tree-representation/1) | Easy | 18 Oct 2026 | 10:29 pm |
