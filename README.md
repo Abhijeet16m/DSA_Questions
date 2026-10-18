@@ -61,3 +61,4 @@
 | 59 | [Minimum Depth of a Binary Tree](./GeeksForGeeks/Easy/Minimum%20Depth%20of%20a%20Binary%20Tree) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/minimum-depth-of-a-binary-tree/1) | Easy | 18 Oct 2026 | 10:24 pm |
 | 60 | [Introduction to Trees](./GeeksForGeeks/Easy/Introduction%20to%20Trees) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/introduction-to-trees/1) | Easy | 18 Oct 2026 | 10:25 pm |
 | 61 | [Binary Tree Representation](./GeeksForGeeks/Easy/Binary%20Tree%20Representation) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/binary-tree-representation/1) | Easy | 18 Oct 2026 | 10:29 pm |
+| 62 | [Two Mirror Trees](./GeeksForGeeks/Easy/Two%20Mirror%20Trees) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/two-mirror-trees/1) | Easy | 18 Oct 2026 | 10:34 pm |
