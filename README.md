@@ -39,3 +39,4 @@
 | 37 | [Symmetric Tree](./GeeksForGeeks/Easy/Symmetric%20Tree) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/symmetric-tree/1) | Easy | 17 Oct 2026 | 05:03 pm |
 | 38 | [Nodes Without Sibling](./GeeksForGeeks/Easy/Nodes%20Without%20Sibling) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/print-all-nodes-that-dont-have-sibling/1) | Easy | 17 Oct 2026 | 05:25 pm |
 | 39 | [Root to Leaf Path Sum](./GeeksForGeeks/Easy/Root%20to%20Leaf%20Path%20Sum) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/root-to-leaf-path-sum/1) | Easy | 17 Oct 2026 | 06:02 pm |
+| 40 | [Children Sum in a Binary Tree](./GeeksForGeeks/Medium/Children%20Sum%20in%20a%20Binary%20Tree) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/children-sum-parent/1) | Medium | 18 Oct 2026 | 08:49 am |
