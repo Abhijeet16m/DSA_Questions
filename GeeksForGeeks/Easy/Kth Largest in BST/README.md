@@ -1,0 +1,17 @@
+# Kth Largest in BST
+
+## Difficulty: Easy
+
+## Platform: GeeksForGeeks
+
+## Problem Link
+[View Problem](https://www.geeksforgeeks.org/problems/kth-largest-element-in-bst/1)
+
+## Solved On
+18 Oct 2026 at 03:43 pm
+
+<h2><a href="https://www.geeksforgeeks.org/problems/kth-largest-element-in-bst/1">Kth Largest in BST</a></h2><h3>Difficulty Level: Easy</h3><hr><p><span style="font-size: 18px;">Given the <strong>root</strong> of a Binary Search Tree (BST) and an integer <strong>k</strong>, find the k-th largest element in the BST without modifying its structure.</span></p><p><span style="font-size: 18px;"><strong>Examples:</strong></span></p><pre><span style="font-size: 18px;"><strong>Input: </strong>root = [4, 2, 9], k = 2<br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/700427/Web/Other/blobid1_1783750463.png" width="180" height="123"><strong>
+Output: </strong>4<br><strong>Explanation:</strong> The second largest element is 4.</span></pre><pre><span style="font-size: 18px;"><strong>Input:</strong> root = [10, 2, 11, 1, 5, N, N, N, N, 3, 6, N, 4], k = 7
+<img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/700427/Web/Other/blobid3_1783759060.png" width="210" height="256"> <strong><br>Output: </strong>2<br><strong>Explanation:</strong> The 7th largest element is 2.</span></pre><pre><span style="font-size: 18px;"><strong style="font-size: 18px;">Input:</strong><span style="font-size: 18px;"> root = [4, 2, 9], k = 3
+<img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/700427/Web/Other/blobid2_1783750538.png" width="177" height="121"></span><strong style="font-size: 18px;">
+Output: </strong><span style="font-size: 18px;">2<br><strong>Explanation:</strong> The 3rd largest element is 2.</span></span></pre>
