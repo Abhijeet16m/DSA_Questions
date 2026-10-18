@@ -1,14 +1,14 @@
 {
-  "totalSolved": 130,
+  "totalSolved": 131,
   "currentStreak": 6,
   "maxStreak": 7,
   "lastSyncDate": "2026-10-18",
-  "todayCount": 20,
+  "todayCount": 21,
   "difficultyCounts": {
     "easy": 55,
     "medium": 44,
     "hard": 7,
-    "basic": 24
+    "basic": 25
   },
   "syncedProblems": {
     "LeetCode_Two_Sum": true,
@@ -140,7 +140,8 @@
     "GeeksForGeeks_Transform_to_Sum_Tree": true,
     "GeeksForGeeks_Nodes_at_K_Distance_from_Root": true,
     "GeeksForGeeks_Check_Inorder_of_BST": true,
-    "GeeksForGeeks_Maximum_Width_of_Tree": true
+    "GeeksForGeeks_Maximum_Width_of_Tree": true,
+    "GeeksForGeeks_Array_Search": true
   },
   "activityHistory": {
     "2026-09-29": 7,
@@ -157,7 +158,7 @@
     "2026-10-15": 8,
     "2026-10-16": 8,
     "2026-10-17": 20,
-    "2026-10-18": 20
+    "2026-10-18": 21
   },
   "todayProblems": [
     "Diameter of Binary Tree",
@@ -179,6 +180,7 @@
     "Transform to Sum Tree",
     "Nodes at K Distance from Root",
     "Check Inorder of BST",
-    "Maximum Width of Tree"
+    "Maximum Width of Tree",
+    "Array Search"
   ]
 }
