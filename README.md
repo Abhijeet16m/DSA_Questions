@@ -45,3 +45,4 @@
 | 43 | [Search in BST](./GeeksForGeeks/Easy/Search%20in%20BST) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/search-a-node-in-bst/1) | Easy | 18 Oct 2026 | 12:21 pm |
 | 44 | [Lowest Common Ancestor of a Binary Tree](./LeetCode/Medium/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | Medium | 18 Oct 2026 | 12:23 pm |
 | 45 | [Ceil in BST](./GeeksForGeeks/Easy/Ceil%20in%20BST) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/implementing-ceil-in-bst/1) | Easy | 18 Oct 2026 | 12:27 pm |
+| 46 | [Floor in BST](./GeeksForGeeks/Easy/Floor%20in%20BST) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/closest-neighbor-in-bst/1) | Easy | 18 Oct 2026 | 12:34 pm |
