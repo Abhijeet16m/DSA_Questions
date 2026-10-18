@@ -1,12 +1,12 @@
 {
-  "totalSolved": 120,
+  "totalSolved": 121,
   "currentStreak": 6,
   "maxStreak": 7,
   "lastSyncDate": "2026-10-18",
-  "todayCount": 10,
+  "todayCount": 11,
   "difficultyCounts": {
     "easy": 48,
-    "medium": 41,
+    "medium": 42,
     "hard": 7,
     "basic": 24
   },
@@ -130,7 +130,8 @@
     "LeetCode_Lowest_Common_Ancestor_of_a_Binary_Tree": true,
     "GeeksForGeeks_Ceil_in_BST": true,
     "GeeksForGeeks_Floor_in_BST": true,
-    "GeeksForGeeks_BST_Insert": true
+    "GeeksForGeeks_BST_Insert": true,
+    "GeeksForGeeks_k-th_Smallest_in_BST": true
   },
   "activityHistory": {
     "2026-09-29": 7,
@@ -147,7 +148,7 @@
     "2026-10-15": 8,
     "2026-10-16": 8,
     "2026-10-17": 20,
-    "2026-10-18": 10
+    "2026-10-18": 11
   },
   "todayProblems": [
     "Diameter of Binary Tree",
@@ -159,6 +160,7 @@
     "Lowest Common Ancestor of a Binary Tree",
     "Ceil in BST",
     "Floor in BST",
-    "BST Insert"
+    "BST Insert",
+    "k-th Smallest in BST"
   ]
 }
