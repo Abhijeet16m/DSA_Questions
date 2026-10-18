@@ -53,3 +53,4 @@
 | 51 | [Minimum in BST](./GeeksForGeeks/Easy/Minimum%20in%20BST) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/minimum-element-in-bst/1) | Easy | 18 Oct 2026 | 03:38 pm |
 | 52 | [Kth Largest in BST](./GeeksForGeeks/Easy/Kth%20Largest%20in%20BST) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/kth-largest-element-in-bst/1) | Easy | 18 Oct 2026 | 03:43 pm |
 | 53 | [Leaves at Same Level or Not](./GeeksForGeeks/Easy/Leaves%20at%20Same%20Level%20or%20Not) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/leaf-at-same-level/1) | Easy | 18 Oct 2026 | 03:49 pm |
+| 54 | [Transform to Sum Tree](./GeeksForGeeks/Easy/Transform%20to%20Sum%20Tree) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/transform-to-sum-tree/1) | Easy | 18 Oct 2026 | 03:54 pm |
