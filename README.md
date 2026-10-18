@@ -48,3 +48,4 @@
 | 46 | [Floor in BST](./GeeksForGeeks/Easy/Floor%20in%20BST) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/closest-neighbor-in-bst/1) | Easy | 18 Oct 2026 | 12:34 pm |
 | 47 | [BST Insert](./GeeksForGeeks/Easy/BST%20Insert) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/insert-a-node-in-a-bst/1) | Easy | 18 Oct 2026 | 12:43 pm |
 | 48 | [k-th Smallest in BST](./GeeksForGeeks/Medium/k-th%20Smallest%20in%20BST) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-k-th-smallest-element-in-bst/1) | Medium | 18 Oct 2026 | 12:57 pm |
+| 49 | [Check for BST](./GeeksForGeeks/Medium/Check%20for%20BST) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/check-for-bst/1) | Medium | 18 Oct 2026 | 01:03 pm |

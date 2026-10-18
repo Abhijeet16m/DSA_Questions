@@ -1,12 +1,12 @@
 {
-  "totalSolved": 121,
+  "totalSolved": 122,
   "currentStreak": 6,
   "maxStreak": 7,
   "lastSyncDate": "2026-10-18",
-  "todayCount": 11,
+  "todayCount": 12,
   "difficultyCounts": {
     "easy": 48,
-    "medium": 42,
+    "medium": 43,
     "hard": 7,
     "basic": 24
   },
@@ -131,7 +131,8 @@
     "GeeksForGeeks_Ceil_in_BST": true,
     "GeeksForGeeks_Floor_in_BST": true,
     "GeeksForGeeks_BST_Insert": true,
-    "GeeksForGeeks_k-th_Smallest_in_BST": true
+    "GeeksForGeeks_k-th_Smallest_in_BST": true,
+    "GeeksForGeeks_Check_for_BST": true
   },
   "activityHistory": {
     "2026-09-29": 7,
@@ -148,7 +149,7 @@
     "2026-10-15": 8,
     "2026-10-16": 8,
     "2026-10-17": 20,
-    "2026-10-18": 11
+    "2026-10-18": 12
   },
   "todayProblems": [
     "Diameter of Binary Tree",
@@ -161,6 +162,7 @@
     "Ceil in BST",
     "Floor in BST",
     "BST Insert",
-    "k-th Smallest in BST"
+    "k-th Smallest in BST",
+    "Check for BST"
   ]
 }
