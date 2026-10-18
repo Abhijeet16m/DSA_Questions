@@ -50,3 +50,4 @@
 | 48 | [k-th Smallest in BST](./GeeksForGeeks/Medium/k-th%20Smallest%20in%20BST) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-k-th-smallest-element-in-bst/1) | Medium | 18 Oct 2026 | 12:57 pm |
 | 49 | [Check for BST](./GeeksForGeeks/Medium/Check%20for%20BST) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/check-for-bst/1) | Medium | 18 Oct 2026 | 01:03 pm |
 | 50 | [Lowest Common Ancestor of a Binary Search Tree](./LeetCode/Medium/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree) | [LeetCode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | Medium | 18 Oct 2026 | 01:15 pm |
+| 51 | [Minimum in BST](./GeeksForGeeks/Easy/Minimum%20in%20BST) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/minimum-element-in-bst/1) | Easy | 18 Oct 2026 | 03:38 pm |
