@@ -1,11 +1,11 @@
 {
-  "totalSolved": 137,
+  "totalSolved": 138,
   "currentStreak": 6,
   "maxStreak": 7,
   "lastSyncDate": "2026-10-18",
-  "todayCount": 27,
+  "todayCount": 28,
   "difficultyCounts": {
-    "easy": 61,
+    "easy": 62,
     "medium": 44,
     "hard": 7,
     "basic": 25
@@ -147,7 +147,8 @@
     "GeeksForGeeks_Binary_Tree_Representation": true,
     "GeeksForGeeks_Two_Mirror_Trees": true,
     "LeetCode_Find_Mode_in_Binary_Search_Tree": true,
-    "LeetCode_Range_Sum_of_BST": true
+    "LeetCode_Range_Sum_of_BST": true,
+    "LeetCode_Increasing_Order_Search_Tree": true
   },
   "activityHistory": {
     "2026-09-29": 7,
@@ -164,7 +165,7 @@
     "2026-10-15": 8,
     "2026-10-16": 8,
     "2026-10-17": 20,
-    "2026-10-18": 27
+    "2026-10-18": 28
   },
   "todayProblems": [
     "Diameter of Binary Tree",
@@ -193,6 +194,7 @@
     "Binary Tree Representation",
     "Two Mirror Trees",
     "Find Mode in Binary Search Tree",
-    "Range Sum of BST"
+    "Range Sum of BST",
+    "Increasing Order Search Tree"
   ]
 }
