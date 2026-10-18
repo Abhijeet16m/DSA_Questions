@@ -1,11 +1,11 @@
 {
-  "totalSolved": 127,
+  "totalSolved": 128,
   "currentStreak": 6,
   "maxStreak": 7,
   "lastSyncDate": "2026-10-18",
-  "todayCount": 17,
+  "todayCount": 18,
   "difficultyCounts": {
-    "easy": 52,
+    "easy": 53,
     "medium": 44,
     "hard": 7,
     "basic": 24
@@ -137,7 +137,8 @@
     "GeeksForGeeks_Minimum_in_BST": true,
     "GeeksForGeeks_Kth_Largest_in_BST": true,
     "GeeksForGeeks_Leaves_at_Same_Level_or_Not": true,
-    "GeeksForGeeks_Transform_to_Sum_Tree": true
+    "GeeksForGeeks_Transform_to_Sum_Tree": true,
+    "GeeksForGeeks_Nodes_at_K_Distance_from_Root": true
   },
   "activityHistory": {
     "2026-09-29": 7,
@@ -154,7 +155,7 @@
     "2026-10-15": 8,
     "2026-10-16": 8,
     "2026-10-17": 20,
-    "2026-10-18": 17
+    "2026-10-18": 18
   },
   "todayProblems": [
     "Diameter of Binary Tree",
@@ -173,6 +174,7 @@
     "Minimum in BST",
     "Kth Largest in BST",
     "Leaves at Same Level or Not",
-    "Transform to Sum Tree"
+    "Transform to Sum Tree",
+    "Nodes at K Distance from Root"
   ]
 }
