@@ -55,3 +55,4 @@
 | 53 | [Leaves at Same Level or Not](./GeeksForGeeks/Easy/Leaves%20at%20Same%20Level%20or%20Not) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/leaf-at-same-level/1) | Easy | 18 Oct 2026 | 03:49 pm |
 | 54 | [Transform to Sum Tree](./GeeksForGeeks/Easy/Transform%20to%20Sum%20Tree) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/transform-to-sum-tree/1) | Easy | 18 Oct 2026 | 03:54 pm |
 | 55 | [Nodes at K Distance from Root](./GeeksForGeeks/Easy/Nodes%20at%20K%20Distance%20from%20Root) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/k-distance-from-root/1) | Easy | 18 Oct 2026 | 04:00 pm |
+| 56 | [Check Inorder of BST](./GeeksForGeeks/Easy/Check%20Inorder%20of%20BST) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/inorder-traversal-and-bst5855/1) | Easy | 18 Oct 2026 | 04:01 pm |
