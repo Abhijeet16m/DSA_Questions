@@ -1,14 +1,14 @@
 {
-  "totalSolved": 147,
+  "totalSolved": 148,
   "currentStreak": 7,
   "maxStreak": 7,
   "lastSyncDate": "2026-10-19",
-  "todayCount": 9,
+  "todayCount": 10,
   "difficultyCounts": {
     "easy": 63,
     "medium": 44,
     "hard": 7,
-    "basic": 33
+    "basic": 34
   },
   "syncedProblems": {
     "LeetCode_Two_Sum": true,
@@ -157,7 +157,8 @@
     "GeeksForGeeks_Elements_in_Range": true,
     "GeeksForGeeks_Swap_kth_elements": true,
     "GeeksForGeeks_Array_End_Insert": true,
-    "GeeksForGeeks_Smaller_and_Larger_in_Sorted": true
+    "GeeksForGeeks_Smaller_and_Larger_in_Sorted": true,
+    "GeeksForGeeks_Longest_Word": true
   },
   "activityHistory": {
     "2026-09-29": 7,
@@ -175,7 +176,7 @@
     "2026-10-16": 8,
     "2026-10-17": 20,
     "2026-10-18": 28,
-    "2026-10-19": 9
+    "2026-10-19": 10
   },
   "todayProblems": [
     "Array to BST",
@@ -186,6 +187,7 @@
     "Elements in Range",
     "Swap kth elements",
     "Array End Insert",
-    "Smaller and Larger in Sorted"
+    "Smaller and Larger in Sorted",
+    "Longest Word"
   ]
 }
