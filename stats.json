@@ -1,14 +1,14 @@
 {
-  "totalSolved": 145,
+  "totalSolved": 146,
   "currentStreak": 7,
   "maxStreak": 7,
   "lastSyncDate": "2026-10-19",
-  "todayCount": 7,
+  "todayCount": 8,
   "difficultyCounts": {
     "easy": 63,
     "medium": 44,
     "hard": 7,
-    "basic": 31
+    "basic": 32
   },
   "syncedProblems": {
     "LeetCode_Two_Sum": true,
@@ -155,7 +155,8 @@
     "GeeksForGeeks_Count_Odd_and_Even": true,
     "GeeksForGeeks_Most_Frequent_of_Two": true,
     "GeeksForGeeks_Elements_in_Range": true,
-    "GeeksForGeeks_Swap_kth_elements": true
+    "GeeksForGeeks_Swap_kth_elements": true,
+    "GeeksForGeeks_Array_End_Insert": true
   },
   "activityHistory": {
     "2026-09-29": 7,
@@ -173,7 +174,7 @@
     "2026-10-16": 8,
     "2026-10-17": 20,
     "2026-10-18": 28,
-    "2026-10-19": 7
+    "2026-10-19": 8
   },
   "todayProblems": [
     "Array to BST",
@@ -182,6 +183,7 @@
     "Count Odd and Even",
     "Most Frequent of Two",
     "Elements in Range",
-    "Swap kth elements"
+    "Swap kth elements",
+    "Array End Insert"
   ]
 }
