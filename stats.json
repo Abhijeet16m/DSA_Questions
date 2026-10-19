@@ -1,11 +1,11 @@
 {
-  "totalSolved": 152,
+  "totalSolved": 153,
   "currentStreak": 7,
   "maxStreak": 7,
   "lastSyncDate": "2026-10-19",
-  "todayCount": 14,
+  "todayCount": 15,
   "difficultyCounts": {
-    "easy": 67,
+    "easy": 68,
     "medium": 44,
     "hard": 7,
     "basic": 34
@@ -162,7 +162,8 @@
     "GeeksForGeeks_Second_Largest": true,
     "GeeksForGeeks_Array_Leaders": true,
     "GeeksForGeeks_Duplicates_in_Limited_Range_Array": true,
-    "GeeksForGeeks_Equilibrium_Point": true
+    "GeeksForGeeks_Equilibrium_Point": true,
+    "GeeksForGeeks_First_Occurrence_in_Sorted": true
   },
   "activityHistory": {
     "2026-09-29": 7,
@@ -180,7 +181,7 @@
     "2026-10-16": 8,
     "2026-10-17": 20,
     "2026-10-18": 28,
-    "2026-10-19": 14
+    "2026-10-19": 15
   },
   "todayProblems": [
     "Array to BST",
@@ -196,6 +197,7 @@
     "Second Largest",
     "Array Leaders",
     "Duplicates in Limited Range Array",
-    "Equilibrium Point"
+    "Equilibrium Point",
+    "First Occurrence in Sorted"
   ]
 }
