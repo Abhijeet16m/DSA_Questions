@@ -1,11 +1,11 @@
 {
-  "totalSolved": 138,
-  "currentStreak": 6,
+  "totalSolved": 139,
+  "currentStreak": 7,
   "maxStreak": 7,
-  "lastSyncDate": "2026-10-18",
-  "todayCount": 28,
+  "lastSyncDate": "2026-10-19",
+  "todayCount": 1,
   "difficultyCounts": {
-    "easy": 62,
+    "easy": 63,
     "medium": 44,
     "hard": 7,
     "basic": 25
@@ -148,7 +148,8 @@
     "GeeksForGeeks_Two_Mirror_Trees": true,
     "LeetCode_Find_Mode_in_Binary_Search_Tree": true,
     "LeetCode_Range_Sum_of_BST": true,
-    "LeetCode_Increasing_Order_Search_Tree": true
+    "LeetCode_Increasing_Order_Search_Tree": true,
+    "GeeksForGeeks_Array_to_BST": true
   },
   "activityHistory": {
     "2026-09-29": 7,
@@ -165,36 +166,10 @@
     "2026-10-15": 8,
     "2026-10-16": 8,
     "2026-10-17": 20,
-    "2026-10-18": 28
+    "2026-10-18": 28,
+    "2026-10-19": 1
   },
   "todayProblems": [
-    "Diameter of Binary Tree",
-    "Children Sum in a Binary Tree",
-    "Symmetric Tree",
-    "Binary Tree Zigzag Level Order Traversal",
-    "Minimum Depth of Binary Tree",
-    "Search in BST",
-    "Lowest Common Ancestor of a Binary Tree",
-    "Ceil in BST",
-    "Floor in BST",
-    "BST Insert",
-    "k-th Smallest in BST",
-    "Check for BST",
-    "Lowest Common Ancestor of a Binary Search Tree",
-    "Minimum in BST",
-    "Kth Largest in BST",
-    "Leaves at Same Level or Not",
-    "Transform to Sum Tree",
-    "Nodes at K Distance from Root",
-    "Check Inorder of BST",
-    "Maximum Width of Tree",
-    "Array Search",
-    "Minimum Depth of a Binary Tree",
-    "Introduction to Trees",
-    "Binary Tree Representation",
-    "Two Mirror Trees",
-    "Find Mode in Binary Search Tree",
-    "Range Sum of BST",
-    "Increasing Order Search Tree"
+    "Array to BST"
   ]
 }

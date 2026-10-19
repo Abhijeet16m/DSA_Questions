@@ -65,3 +65,4 @@
 | 63 | [Find Mode in Binary Search Tree](./LeetCode/Easy/Find%20Mode%20in%20Binary%20Search%20Tree) | [LeetCode](https://leetcode.com/problems/find-mode-in-binary-search-tree/) | Easy | 18 Oct 2026 | 10:48 pm |
 | 64 | [Range Sum of BST](./LeetCode/Easy/Range%20Sum%20of%20BST) | [LeetCode](https://leetcode.com/problems/range-sum-of-bst/) | Easy | 18 Oct 2026 | 10:52 pm |
 | 65 | [Increasing Order Search Tree](./LeetCode/Easy/Increasing%20Order%20Search%20Tree) | [LeetCode](https://leetcode.com/problems/increasing-order-search-tree/) | Easy | 18 Oct 2026 | 10:56 pm |
+| 66 | [Array to BST](./GeeksForGeeks/Easy/Array%20to%20BST) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/array-to-bst4443/1) | Easy | 19 Oct 2026 | 06:22 am |
