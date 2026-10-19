@@ -1,11 +1,11 @@
 {
-  "totalSolved": 150,
+  "totalSolved": 151,
   "currentStreak": 7,
   "maxStreak": 7,
   "lastSyncDate": "2026-10-19",
-  "todayCount": 12,
+  "todayCount": 13,
   "difficultyCounts": {
-    "easy": 65,
+    "easy": 66,
     "medium": 44,
     "hard": 7,
     "basic": 34
@@ -160,7 +160,8 @@
     "GeeksForGeeks_Smaller_and_Larger_in_Sorted": true,
     "GeeksForGeeks_Longest_Word": true,
     "GeeksForGeeks_Second_Largest": true,
-    "GeeksForGeeks_Array_Leaders": true
+    "GeeksForGeeks_Array_Leaders": true,
+    "GeeksForGeeks_Duplicates_in_Limited_Range_Array": true
   },
   "activityHistory": {
     "2026-09-29": 7,
@@ -178,7 +179,7 @@
     "2026-10-16": 8,
     "2026-10-17": 20,
     "2026-10-18": 28,
-    "2026-10-19": 12
+    "2026-10-19": 13
   },
   "todayProblems": [
     "Array to BST",
@@ -192,6 +193,7 @@
     "Smaller and Larger in Sorted",
     "Longest Word",
     "Second Largest",
-    "Array Leaders"
+    "Array Leaders",
+    "Duplicates in Limited Range Array"
   ]
 }
