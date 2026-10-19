@@ -1,14 +1,14 @@
 {
-  "totalSolved": 140,
+  "totalSolved": 141,
   "currentStreak": 7,
   "maxStreak": 7,
   "lastSyncDate": "2026-10-19",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 63,
     "medium": 44,
     "hard": 7,
-    "basic": 26
+    "basic": 27
   },
   "syncedProblems": {
     "LeetCode_Two_Sum": true,
@@ -150,7 +150,8 @@
     "LeetCode_Range_Sum_of_BST": true,
     "LeetCode_Increasing_Order_Search_Tree": true,
     "GeeksForGeeks_Array_to_BST": true,
-    "GeeksForGeeks_Implement_Stack_using_Array": true
+    "GeeksForGeeks_Implement_Stack_using_Array": true,
+    "GeeksForGeeks_Queue_Using_Array": true
   },
   "activityHistory": {
     "2026-09-29": 7,
@@ -168,10 +169,11 @@
     "2026-10-16": 8,
     "2026-10-17": 20,
     "2026-10-18": 28,
-    "2026-10-19": 2
+    "2026-10-19": 3
   },
   "todayProblems": [
     "Array to BST",
-    "Implement Stack using Array"
+    "Implement Stack using Array",
+    "Queue Using Array"
   ]
 }
