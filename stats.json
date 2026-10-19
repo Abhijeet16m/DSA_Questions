@@ -1,14 +1,14 @@
 {
-  "totalSolved": 146,
+  "totalSolved": 147,
   "currentStreak": 7,
   "maxStreak": 7,
   "lastSyncDate": "2026-10-19",
-  "todayCount": 8,
+  "todayCount": 9,
   "difficultyCounts": {
     "easy": 63,
     "medium": 44,
     "hard": 7,
-    "basic": 32
+    "basic": 33
   },
   "syncedProblems": {
     "LeetCode_Two_Sum": true,
@@ -156,7 +156,8 @@
     "GeeksForGeeks_Most_Frequent_of_Two": true,
     "GeeksForGeeks_Elements_in_Range": true,
     "GeeksForGeeks_Swap_kth_elements": true,
-    "GeeksForGeeks_Array_End_Insert": true
+    "GeeksForGeeks_Array_End_Insert": true,
+    "GeeksForGeeks_Smaller_and_Larger_in_Sorted": true
   },
   "activityHistory": {
     "2026-09-29": 7,
@@ -174,7 +175,7 @@
     "2026-10-16": 8,
     "2026-10-17": 20,
     "2026-10-18": 28,
-    "2026-10-19": 8
+    "2026-10-19": 9
   },
   "todayProblems": [
     "Array to BST",
@@ -184,6 +185,7 @@
     "Most Frequent of Two",
     "Elements in Range",
     "Swap kth elements",
-    "Array End Insert"
+    "Array End Insert",
+    "Smaller and Larger in Sorted"
   ]
 }
