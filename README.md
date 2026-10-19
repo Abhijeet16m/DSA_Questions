@@ -68,3 +68,4 @@
 | 66 | [Array to BST](./GeeksForGeeks/Easy/Array%20to%20BST) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/array-to-bst4443/1) | Easy | 19 Oct 2026 | 06:22 am |
 | 67 | [Implement Stack using Array](./GeeksForGeeks/Basic/Implement%20Stack%20using%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/implement-stack-using-array/1?page=1&category=Arrays&difficulty=Basic&sortBy=submissions) | Basic | 19 Oct 2026 | 09:30 am |
 | 68 | [Queue Using Array](./GeeksForGeeks/Basic/Queue%20Using%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/implement-queue-using-array/1?page=1&category=Arrays&difficulty=Basic&sortBy=submissions) | Basic | 19 Oct 2026 | 09:39 am |
+| 69 | [Count Odd and Even](./GeeksForGeeks/Basic/Count%20Odd%20and%20Even) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-odd-even/1?page=1&category=Arrays&difficulty=Basic&sortBy=submissions) | Basic | 19 Oct 2026 | 09:41 am |
