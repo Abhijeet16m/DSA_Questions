@@ -1,13 +1,13 @@
 {
-  "totalSolved": 156,
-  "currentStreak": 7,
-  "maxStreak": 7,
-  "lastSyncDate": "2026-10-19",
-  "todayCount": 18,
+  "totalSolved": 157,
+  "currentStreak": 8,
+  "maxStreak": 8,
+  "lastSyncDate": "2026-10-20",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 71,
     "medium": 44,
-    "hard": 7,
+    "hard": 8,
     "basic": 34
   },
   "syncedProblems": {
@@ -166,7 +166,8 @@
     "GeeksForGeeks_First_Occurrence_in_Sorted": true,
     "GeeksForGeeks_Union_of_Arrays_with_Duplicates": true,
     "GeeksForGeeks_Move_All_Zeroes_to_End": true,
-    "GeeksForGeeks_Check_Sorted_Array": true
+    "GeeksForGeeks_Check_Sorted_Array": true,
+    "LeetCode_Binary_Tree_Maximum_Path_Sum": true
   },
   "activityHistory": {
     "2026-09-29": 7,
@@ -184,26 +185,10 @@
     "2026-10-16": 8,
     "2026-10-17": 20,
     "2026-10-18": 28,
-    "2026-10-19": 18
+    "2026-10-19": 18,
+    "2026-10-20": 1
   },
   "todayProblems": [
-    "Array to BST",
-    "Implement Stack using Array",
-    "Queue Using Array",
-    "Count Odd and Even",
-    "Most Frequent of Two",
-    "Elements in Range",
-    "Swap kth elements",
-    "Array End Insert",
-    "Smaller and Larger in Sorted",
-    "Longest Word",
-    "Second Largest",
-    "Array Leaders",
-    "Duplicates in Limited Range Array",
-    "Equilibrium Point",
-    "First Occurrence in Sorted",
-    "Union of Arrays with Duplicates",
-    "Move All Zeroes to End",
-    "Check Sorted Array"
+    "Binary Tree Maximum Path Sum"
   ]
 }
