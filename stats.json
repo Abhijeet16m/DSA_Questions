@@ -1,11 +1,11 @@
 {
-  "totalSolved": 179,
+  "totalSolved": 180,
   "currentStreak": 9,
   "maxStreak": 9,
   "lastSyncDate": "2026-10-21",
-  "todayCount": 19,
+  "todayCount": 20,
   "difficultyCounts": {
-    "easy": 75,
+    "easy": 76,
     "medium": 51,
     "hard": 8,
     "basic": 45
@@ -189,7 +189,8 @@
     "GeeksForGeeks_First_1_in_Sorted_Binary": true,
     "GeeksForGeeks_Binary_Tree_to_BST": true,
     "GeeksForGeeks_BST_Keys_in_a_Range": true,
-    "GeeksForGeeks_Visit_Leaves_with_Budget": true
+    "GeeksForGeeks_Visit_Leaves_with_Budget": true,
+    "GeeksForGeeks_Largest_Value_of_Every_Level": true
   },
   "activityHistory": {
     "2026-09-29": 7,
@@ -209,7 +210,7 @@
     "2026-10-18": 28,
     "2026-10-19": 18,
     "2026-10-20": 4,
-    "2026-10-21": 19
+    "2026-10-21": 20
   },
   "todayProblems": [
     "Validate Binary Search Tree",
@@ -230,6 +231,7 @@
     "First 1 in Sorted Binary",
     "Binary Tree to BST",
     "BST Keys in a Range",
-    "Visit Leaves with Budget"
+    "Visit Leaves with Budget",
+    "Largest Value of Every Level"
   ]
 }
