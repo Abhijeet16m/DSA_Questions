@@ -96,3 +96,4 @@
 | 94 | [6C - Alice Bob and Chocolate](./Codeforces/basic/6C%20-%20Alice%20Bob%20and%20Chocolate) | [Codeforces](https://codeforces.com/problemset/problem/6/C) | basic | 21 Oct 2026 | 06:37 pm |
 | 95 | [580A - Kefa and First Steps](./Codeforces/basic/580A%20-%20Kefa%20and%20First%20Steps) | [Codeforces](https://codeforces.com/problemset/problem/580/A) | basic | 21 Oct 2026 | 06:52 pm |
 | 96 | [1472B - Fair Division](./Codeforces/basic/1472B%20-%20Fair%20Division) | [Codeforces](https://codeforces.com/problemset/problem/1472/B) | basic | 21 Oct 2026 | 07:00 pm |
+| 97 | [1353C - Board Moves](./Codeforces/basic/1353C%20-%20Board%20Moves) | [Codeforces](https://codeforces.com/problemset/problem/1353/C) | basic | 21 Oct 2026 | 07:20 pm |

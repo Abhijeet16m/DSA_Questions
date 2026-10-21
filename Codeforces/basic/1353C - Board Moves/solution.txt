@@ -1,0 +1,20 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+long long int solution(int n){
+    int x = (n-1)/2;
+    long long int res = 0;
+    for(int i = 1; i <= x; i++){
+        res += 8LL*i*i;
+    }
+    return res;
+}
+
+int main(){
+    int t; cin>>t;
+    while(t--){
+        int n; cin>>n;
+        cout<<solution(n)<<endl;
+    }
+    return 0;
+}
