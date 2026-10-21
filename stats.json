@@ -1,14 +1,14 @@
 {
-  "totalSolved": 170,
+  "totalSolved": 171,
   "currentStreak": 9,
   "maxStreak": 9,
   "lastSyncDate": "2026-10-21",
-  "todayCount": 10,
+  "todayCount": 11,
   "difficultyCounts": {
     "easy": 72,
     "medium": 51,
     "hard": 8,
-    "basic": 39
+    "basic": 40
   },
   "syncedProblems": {
     "LeetCode_Two_Sum": true,
@@ -180,7 +180,8 @@
     "Codeforces_6C_-_Alice_Bob_and_Chocolate": true,
     "Codeforces_580A_-_Kefa_and_First_Steps": true,
     "Codeforces_1472B_-_Fair_Division": true,
-    "Codeforces_1353C_-_Board_Moves": true
+    "Codeforces_1353C_-_Board_Moves": true,
+    "GeeksForGeeks_Last_Coin_in_Game_of_Alternates": true
   },
   "activityHistory": {
     "2026-09-29": 7,
@@ -200,7 +201,7 @@
     "2026-10-18": 28,
     "2026-10-19": 18,
     "2026-10-20": 4,
-    "2026-10-21": 10
+    "2026-10-21": 11
   },
   "todayProblems": [
     "Validate Binary Search Tree",
@@ -212,6 +213,7 @@
     "6C - Alice Bob and Chocolate",
     "580A - Kefa and First Steps",
     "1472B - Fair Division",
-    "1353C - Board Moves"
+    "1353C - Board Moves",
+    "Last Coin in Game of Alternates"
   ]
 }

@@ -1,0 +1,28 @@
+# Last Coin in Game of Alternates
+
+## Difficulty: Basic
+
+## Platform: GeeksForGeeks
+
+## Problem Link
+[View Problem](https://www.geeksforgeeks.org/problems/last-coin-in-a-game-of-alternates/1?page=1&category=Arrays&difficulty=Basic&sortBy=submissions)
+
+## Solved On
+21 Oct 2026 at 10:04 pm
+
+<h2><a href="https://www.geeksforgeeks.org/problems/last-coin-in-a-game-of-alternates/1?page=1&category=Arrays&difficulty=Basic&sortBy=submissions">Last Coin in Game of Alternates</a></h2><h3>Difficulty Level: Basic</h3><hr><p data-pm-slice="0 0 []"><span style="font-size: 18.6667px;">Given an array integer<strong> arr[]</strong> , representing the values of coins arranged in a row.</span></p><ul><li data-pm-slice="0 0 []"><span style="font-size: 18.6667px;">Two players play a game by picking coins alternately.</span></li><li data-pm-slice="0 0 []"><span style="font-size: 18.6667px;">At each turn, a player can pick a coin from either the beginning or the end of the array. Both players follow a greedy strategy, i.e., they always pick the coin with the maximum value among the two available ends.</span></li><li data-pm-slice="0 0 []"><span style="font-size: 18.6667px;">The game continues until only one coin remains.</span></li></ul><p data-pm-slice="0 0 []"><span style="font-size: 18.6667px;">Find the value of the <strong>last remaining coin</strong>.</span></p><p><span style="font-size: 18px;"><strong>Examples:</strong></span></p><pre><span style="font-size: 18px;"><strong style="font-size: 18px;">Input : </strong><span style="font-size: 18px;">arr[] = [5, 3, 1, 6, 9]
+</span><strong style="font-size: 18px;">Output : </strong><span style="font-size: 18px;">1
+</span><strong style="font-size: 18px;">Explanation:
+</strong><span style="font-size: 18px;">Players always pick the larger coin from the two ends.
+Pick 9, remaining array: [5, 3, 1, 6]
+Pick 6, remaining array: [5, 3, 1]
+Pick 5, remaining array: [3, 1]
+Pick 3, remaining array: [1]
+Final Output: 1</span></span></pre><pre><span style="font-size: 18px;"><strong style="font-size: 18px;">Input : </strong><span style="font-size: 18px;">arr[] = [5, 9, 2, 5]</span><strong style="font-size: 18px;">
+Output : </strong><span style="font-size: 18px;">2<br></span><strong style="font-size: 18px;">Explanation:<br></strong><span style="font-size: 18px;">Players always pick the larger coin from the two ends.
+Pick 5, remaining array: [9, 2, 5]
+Pick 9, remaining array: [2, 5]
+Pick 5, remaining array: [2]
+Final Output: 2</span></span></pre><pre><span style="font-size: 14pt;"><strong>Input : </strong>arr[] = [11]<strong>
+Output : </strong>11<br><strong>Explanation:<br></strong>Only one coin is present in the array, so no moves are made.
+Final Output: 11</span></pre>
