@@ -1,14 +1,14 @@
 {
-  "totalSolved": 175,
+  "totalSolved": 176,
   "currentStreak": 9,
   "maxStreak": 9,
   "lastSyncDate": "2026-10-21",
-  "todayCount": 15,
+  "todayCount": 16,
   "difficultyCounts": {
     "easy": 72,
     "medium": 51,
     "hard": 8,
-    "basic": 44
+    "basic": 45
   },
   "syncedProblems": {
     "LeetCode_Two_Sum": true,
@@ -185,7 +185,8 @@
     "GeeksForGeeks_At_least_Two_Greater": true,
     "GeeksForGeeks_Even_Odd_Positions": true,
     "GeeksForGeeks_Adjacent_XOR_Transformation": true,
-    "GeeksForGeeks_Multiply_Left_and_Right_Array_Sums": true
+    "GeeksForGeeks_Multiply_Left_and_Right_Array_Sums": true,
+    "GeeksForGeeks_First_1_in_Sorted_Binary": true
   },
   "activityHistory": {
     "2026-09-29": 7,
@@ -205,7 +206,7 @@
     "2026-10-18": 28,
     "2026-10-19": 18,
     "2026-10-20": 4,
-    "2026-10-21": 15
+    "2026-10-21": 16
   },
   "todayProblems": [
     "Validate Binary Search Tree",
@@ -222,6 +223,7 @@
     "At least Two Greater",
     "Even Odd Positions",
     "Adjacent XOR Transformation",
-    "Multiply Left and Right Array Sums"
+    "Multiply Left and Right Array Sums",
+    "First 1 in Sorted Binary"
   ]
 }
