@@ -1,14 +1,14 @@
 {
-  "totalSolved": 172,
+  "totalSolved": 173,
   "currentStreak": 9,
   "maxStreak": 9,
   "lastSyncDate": "2026-10-21",
-  "todayCount": 12,
+  "todayCount": 13,
   "difficultyCounts": {
     "easy": 72,
     "medium": 51,
     "hard": 8,
-    "basic": 41
+    "basic": 42
   },
   "syncedProblems": {
     "LeetCode_Two_Sum": true,
@@ -182,7 +182,8 @@
     "Codeforces_1472B_-_Fair_Division": true,
     "Codeforces_1353C_-_Board_Moves": true,
     "GeeksForGeeks_Last_Coin_in_Game_of_Alternates": true,
-    "GeeksForGeeks_At_least_Two_Greater": true
+    "GeeksForGeeks_At_least_Two_Greater": true,
+    "GeeksForGeeks_Even_Odd_Positions": true
   },
   "activityHistory": {
     "2026-09-29": 7,
@@ -202,7 +203,7 @@
     "2026-10-18": 28,
     "2026-10-19": 18,
     "2026-10-20": 4,
-    "2026-10-21": 12
+    "2026-10-21": 13
   },
   "todayProblems": [
     "Validate Binary Search Tree",
@@ -216,6 +217,7 @@
     "1472B - Fair Division",
     "1353C - Board Moves",
     "Last Coin in Game of Alternates",
-    "At least Two Greater"
+    "At least Two Greater",
+    "Even Odd Positions"
   ]
 }
