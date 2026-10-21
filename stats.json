@@ -1,11 +1,11 @@
 {
-  "totalSolved": 177,
+  "totalSolved": 178,
   "currentStreak": 9,
   "maxStreak": 9,
   "lastSyncDate": "2026-10-21",
-  "todayCount": 17,
+  "todayCount": 18,
   "difficultyCounts": {
-    "easy": 73,
+    "easy": 74,
     "medium": 51,
     "hard": 8,
     "basic": 45
@@ -187,7 +187,8 @@
     "GeeksForGeeks_Adjacent_XOR_Transformation": true,
     "GeeksForGeeks_Multiply_Left_and_Right_Array_Sums": true,
     "GeeksForGeeks_First_1_in_Sorted_Binary": true,
-    "GeeksForGeeks_Binary_Tree_to_BST": true
+    "GeeksForGeeks_Binary_Tree_to_BST": true,
+    "GeeksForGeeks_BST_Keys_in_a_Range": true
   },
   "activityHistory": {
     "2026-09-29": 7,
@@ -207,7 +208,7 @@
     "2026-10-18": 28,
     "2026-10-19": 18,
     "2026-10-20": 4,
-    "2026-10-21": 17
+    "2026-10-21": 18
   },
   "todayProblems": [
     "Validate Binary Search Tree",
@@ -226,6 +227,7 @@
     "Adjacent XOR Transformation",
     "Multiply Left and Right Array Sums",
     "First 1 in Sorted Binary",
-    "Binary Tree to BST"
+    "Binary Tree to BST",
+    "BST Keys in a Range"
   ]
 }
