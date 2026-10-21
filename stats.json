@@ -1,14 +1,14 @@
 {
-  "totalSolved": 166,
+  "totalSolved": 167,
   "currentStreak": 9,
   "maxStreak": 9,
   "lastSyncDate": "2026-10-21",
-  "todayCount": 6,
+  "todayCount": 7,
   "difficultyCounts": {
     "easy": 72,
     "medium": 51,
     "hard": 8,
-    "basic": 35
+    "basic": 36
   },
   "syncedProblems": {
     "LeetCode_Two_Sum": true,
@@ -176,7 +176,8 @@
     "LeetCode_Convert_Sorted_List_to_Binary_Search_Tree": true,
     "LeetCode_Path_Sum_II": true,
     "LeetCode_Flatten_Binary_Tree_to_Linked_List": true,
-    "Codeforces_279B_-_Books": true
+    "Codeforces_279B_-_Books": true,
+    "Codeforces_6C_-_Alice_Bob_and_Chocolate": true
   },
   "activityHistory": {
     "2026-09-29": 7,
@@ -196,7 +197,7 @@
     "2026-10-18": 28,
     "2026-10-19": 18,
     "2026-10-20": 4,
-    "2026-10-21": 6
+    "2026-10-21": 7
   },
   "todayProblems": [
     "Validate Binary Search Tree",
@@ -204,6 +205,7 @@
     "Convert Sorted List to Binary Search Tree",
     "Path Sum II",
     "Flatten Binary Tree to Linked List",
-    "279B - Books"
+    "279B - Books",
+    "6C - Alice Bob and Chocolate"
   ]
 }

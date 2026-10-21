@@ -93,3 +93,4 @@
 | 91 | [Path Sum II](./LeetCode/Medium/Path%20Sum%20II) | [LeetCode](https://leetcode.com/problems/path-sum-ii/) | Medium | 21 Oct 2026 | 03:59 pm |
 | 92 | [Flatten Binary Tree to Linked List](./LeetCode/Medium/Flatten%20Binary%20Tree%20to%20Linked%20List) | [LeetCode](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | Medium | 21 Oct 2026 | 04:17 pm |
 | 93 | [279B - Books](./Codeforces/basic/279B%20-%20Books) | [Codeforces](https://codeforces.com/problemset/problem/279/B) | basic | 21 Oct 2026 | 06:18 pm |
+| 94 | [6C - Alice Bob and Chocolate](./Codeforces/basic/6C%20-%20Alice%20Bob%20and%20Chocolate) | [Codeforces](https://codeforces.com/problemset/problem/6/C) | basic | 21 Oct 2026 | 06:37 pm |
