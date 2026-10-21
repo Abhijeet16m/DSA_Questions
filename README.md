@@ -91,3 +91,4 @@
 | 89 | [Convert Sorted Array to Binary Search Tree](./LeetCode/Easy/Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree) | [LeetCode](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | Easy | 21 Oct 2026 | 03:46 pm |
 | 90 | [Convert Sorted List to Binary Search Tree](./LeetCode/Medium/Convert%20Sorted%20List%20to%20Binary%20Search%20Tree) | [LeetCode](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | Medium | 21 Oct 2026 | 03:49 pm |
 | 91 | [Path Sum II](./LeetCode/Medium/Path%20Sum%20II) | [LeetCode](https://leetcode.com/problems/path-sum-ii/) | Medium | 21 Oct 2026 | 03:59 pm |
+| 92 | [Flatten Binary Tree to Linked List](./LeetCode/Medium/Flatten%20Binary%20Tree%20to%20Linked%20List) | [LeetCode](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | Medium | 21 Oct 2026 | 04:17 pm |

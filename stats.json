@@ -1,12 +1,12 @@
 {
-  "totalSolved": 164,
+  "totalSolved": 165,
   "currentStreak": 9,
   "maxStreak": 9,
   "lastSyncDate": "2026-10-21",
-  "todayCount": 4,
+  "todayCount": 5,
   "difficultyCounts": {
     "easy": 72,
-    "medium": 50,
+    "medium": 51,
     "hard": 8,
     "basic": 34
   },
@@ -174,7 +174,8 @@
     "LeetCode_Validate_Binary_Search_Tree": true,
     "LeetCode_Convert_Sorted_Array_to_Binary_Search_Tree": true,
     "LeetCode_Convert_Sorted_List_to_Binary_Search_Tree": true,
-    "LeetCode_Path_Sum_II": true
+    "LeetCode_Path_Sum_II": true,
+    "LeetCode_Flatten_Binary_Tree_to_Linked_List": true
   },
   "activityHistory": {
     "2026-09-29": 7,
@@ -194,12 +195,13 @@
     "2026-10-18": 28,
     "2026-10-19": 18,
     "2026-10-20": 4,
-    "2026-10-21": 4
+    "2026-10-21": 5
   },
   "todayProblems": [
     "Validate Binary Search Tree",
     "Convert Sorted Array to Binary Search Tree",
     "Convert Sorted List to Binary Search Tree",
-    "Path Sum II"
+    "Path Sum II",
+    "Flatten Binary Tree to Linked List"
   ]
 }
