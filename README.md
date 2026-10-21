@@ -94,3 +94,4 @@
 | 92 | [Flatten Binary Tree to Linked List](./LeetCode/Medium/Flatten%20Binary%20Tree%20to%20Linked%20List) | [LeetCode](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | Medium | 21 Oct 2026 | 04:17 pm |
 | 93 | [279B - Books](./Codeforces/basic/279B%20-%20Books) | [Codeforces](https://codeforces.com/problemset/problem/279/B) | basic | 21 Oct 2026 | 06:18 pm |
 | 94 | [6C - Alice Bob and Chocolate](./Codeforces/basic/6C%20-%20Alice%20Bob%20and%20Chocolate) | [Codeforces](https://codeforces.com/problemset/problem/6/C) | basic | 21 Oct 2026 | 06:37 pm |
+| 95 | [580A - Kefa and First Steps](./Codeforces/basic/580A%20-%20Kefa%20and%20First%20Steps) | [Codeforces](https://codeforces.com/problemset/problem/580/A) | basic | 21 Oct 2026 | 06:52 pm |
