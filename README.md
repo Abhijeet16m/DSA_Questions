@@ -101,3 +101,4 @@
 | 99 | [At least Two Greater](./GeeksForGeeks/Basic/At%20least%20Two%20Greater) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/at-least-two-greater-elements4625/1?page=1&category=Arrays&difficulty=Basic&status=unsolved&sortBy=submissions) | Basic | 21 Oct 2026 | 10:16 pm |
 | 100 | [Even Odd Positions](./GeeksForGeeks/Basic/Even%20Odd%20Positions) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-the-fine4353/1) | Basic | 21 Oct 2026 | 10:20 pm |
 | 101 | [Adjacent XOR Transformation](./GeeksForGeeks/Basic/Adjacent%20XOR%20Transformation) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/game-with-nos3123/1) | Basic | 21 Oct 2026 | 10:22 pm |
+| 102 | [Multiply Left and Right Array Sums](./GeeksForGeeks/Basic/Multiply%20Left%20and%20Right%20Array%20Sums) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/multiply-left-and-right-array-sum1555/1) | Basic | 21 Oct 2026 | 10:24 pm |
