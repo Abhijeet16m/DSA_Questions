@@ -1,14 +1,14 @@
 {
-  "totalSolved": 168,
+  "totalSolved": 169,
   "currentStreak": 9,
   "maxStreak": 9,
   "lastSyncDate": "2026-10-21",
-  "todayCount": 8,
+  "todayCount": 9,
   "difficultyCounts": {
     "easy": 72,
     "medium": 51,
     "hard": 8,
-    "basic": 37
+    "basic": 38
   },
   "syncedProblems": {
     "LeetCode_Two_Sum": true,
@@ -178,7 +178,8 @@
     "LeetCode_Flatten_Binary_Tree_to_Linked_List": true,
     "Codeforces_279B_-_Books": true,
     "Codeforces_6C_-_Alice_Bob_and_Chocolate": true,
-    "Codeforces_580A_-_Kefa_and_First_Steps": true
+    "Codeforces_580A_-_Kefa_and_First_Steps": true,
+    "Codeforces_1472B_-_Fair_Division": true
   },
   "activityHistory": {
     "2026-09-29": 7,
@@ -198,7 +199,7 @@
     "2026-10-18": 28,
     "2026-10-19": 18,
     "2026-10-20": 4,
-    "2026-10-21": 8
+    "2026-10-21": 9
   },
   "todayProblems": [
     "Validate Binary Search Tree",
@@ -208,6 +209,7 @@
     "Flatten Binary Tree to Linked List",
     "279B - Books",
     "6C - Alice Bob and Chocolate",
-    "580A - Kefa and First Steps"
+    "580A - Kefa and First Steps",
+    "1472B - Fair Division"
   ]
 }
