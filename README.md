@@ -103,3 +103,4 @@
 | 101 | [Adjacent XOR Transformation](./GeeksForGeeks/Basic/Adjacent%20XOR%20Transformation) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/game-with-nos3123/1) | Basic | 21 Oct 2026 | 10:22 pm |
 | 102 | [Multiply Left and Right Array Sums](./GeeksForGeeks/Basic/Multiply%20Left%20and%20Right%20Array%20Sums) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/multiply-left-and-right-array-sum1555/1) | Basic | 21 Oct 2026 | 10:24 pm |
 | 103 | [First 1 in Sorted Binary](./GeeksForGeeks/Basic/First%201%20in%20Sorted%20Binary) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/index-of-first-1-in-a-sorted-array-of-0s-and-1s4048/1) | Basic | 21 Oct 2026 | 10:53 pm |
+| 104 | [Binary Tree to BST](./GeeksForGeeks/Easy/Binary%20Tree%20to%20BST) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/binary-tree-to-bst/1?page=1&category=Tree&difficulty=Easy&sortBy=submissions) | Easy | 21 Oct 2026 | 11:02 pm |
