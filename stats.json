@@ -1,14 +1,14 @@
 {
-  "totalSolved": 171,
+  "totalSolved": 172,
   "currentStreak": 9,
   "maxStreak": 9,
   "lastSyncDate": "2026-10-21",
-  "todayCount": 11,
+  "todayCount": 12,
   "difficultyCounts": {
     "easy": 72,
     "medium": 51,
     "hard": 8,
-    "basic": 40
+    "basic": 41
   },
   "syncedProblems": {
     "LeetCode_Two_Sum": true,
@@ -181,7 +181,8 @@
     "Codeforces_580A_-_Kefa_and_First_Steps": true,
     "Codeforces_1472B_-_Fair_Division": true,
     "Codeforces_1353C_-_Board_Moves": true,
-    "GeeksForGeeks_Last_Coin_in_Game_of_Alternates": true
+    "GeeksForGeeks_Last_Coin_in_Game_of_Alternates": true,
+    "GeeksForGeeks_At_least_Two_Greater": true
   },
   "activityHistory": {
     "2026-09-29": 7,
@@ -201,7 +202,7 @@
     "2026-10-18": 28,
     "2026-10-19": 18,
     "2026-10-20": 4,
-    "2026-10-21": 11
+    "2026-10-21": 12
   },
   "todayProblems": [
     "Validate Binary Search Tree",
@@ -214,6 +215,7 @@
     "580A - Kefa and First Steps",
     "1472B - Fair Division",
     "1353C - Board Moves",
-    "Last Coin in Game of Alternates"
+    "Last Coin in Game of Alternates",
+    "At least Two Greater"
   ]
 }
