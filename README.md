@@ -114,3 +114,4 @@
 | 112 | [Linked List Traversal](./GeeksForGeeks/Basic/Linked%20List%20Traversal) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/linkedlist-traversal/1) | Basic | 22 Oct 2026 | 01:45 pm |
 | 113 | [Doubly Linked List Traversal](./GeeksForGeeks/Basic/Doubly%20Linked%20List%20Traversal) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/display-doubly-linked-list--154650/1) | Basic | 22 Oct 2026 | 01:48 pm |
 | 114 | [Length of Circular Linked List](./GeeksForGeeks/Basic/Length%20of%20Circular%20Linked%20List) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/length-of-circular-linked-list/1) | Basic | 22 Oct 2026 | 01:50 pm |
+| 115 | [Insertion in Empty Circular List](./GeeksForGeeks/Basic/Insertion%20in%20Empty%20Circular%20List) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/insertion-in-an-empty-circular-linked-list/1) | Basic | 22 Oct 2026 | 01:53 pm |
