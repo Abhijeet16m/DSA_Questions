@@ -1,11 +1,11 @@
 {
-  "totalSolved": 188,
+  "totalSolved": 189,
   "currentStreak": 10,
   "maxStreak": 10,
   "lastSyncDate": "2026-10-22",
-  "todayCount": 8,
+  "todayCount": 9,
   "difficultyCounts": {
-    "easy": 77,
+    "easy": 78,
     "medium": 51,
     "hard": 8,
     "basic": 52
@@ -198,7 +198,8 @@
     "GeeksForGeeks_Linked_List_Traversal": true,
     "GeeksForGeeks_Doubly_Linked_List_Traversal": true,
     "GeeksForGeeks_Length_of_Circular_Linked_List": true,
-    "GeeksForGeeks_Insertion_in_Empty_Circular_List": true
+    "GeeksForGeeks_Insertion_in_Empty_Circular_List": true,
+    "GeeksForGeeks_Kth_from_End_of_Linked_List": true
   },
   "activityHistory": {
     "2026-09-29": 7,
@@ -219,7 +220,7 @@
     "2026-10-19": 18,
     "2026-10-20": 4,
     "2026-10-21": 20,
-    "2026-10-22": 8
+    "2026-10-22": 9
   },
   "todayProblems": [
     "Maximum Level in Binary Tree",
@@ -229,6 +230,7 @@
     "Linked List Traversal",
     "Doubly Linked List Traversal",
     "Length of Circular Linked List",
-    "Insertion in Empty Circular List"
+    "Insertion in Empty Circular List",
+    "Kth from End of Linked List"
   ]
 }
