@@ -118,3 +118,4 @@
 | 116 | [Kth from End of Linked List](./GeeksForGeeks/Easy/Kth%20from%20End%20of%20Linked%20List) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/1) | Easy | 22 Oct 2026 | 01:57 pm |
 | 117 | [Middle of Linked List](./GeeksForGeeks/Easy/Middle%20of%20Linked%20List) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1) | Easy | 22 Oct 2026 | 01:59 pm |
 | 118 | [Remove Duplicates in Sorted Linked List](./GeeksForGeeks/Easy/Remove%20Duplicates%20in%20Sorted%20Linked%20List) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/remove-duplicate-element-from-sorted-linked-list/1) | Easy | 22 Oct 2026 | 02:03 pm |
+| 119 | [Flatten Linked List](./GeeksForGeeks/Medium/Flatten%20Linked%20List) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/flattening-a-linked-list/1) | Medium | 22 Oct 2026 | 02:12 pm |

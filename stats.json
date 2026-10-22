@@ -1,12 +1,12 @@
 {
-  "totalSolved": 191,
+  "totalSolved": 192,
   "currentStreak": 10,
   "maxStreak": 10,
   "lastSyncDate": "2026-10-22",
-  "todayCount": 11,
+  "todayCount": 12,
   "difficultyCounts": {
     "easy": 80,
-    "medium": 51,
+    "medium": 52,
     "hard": 8,
     "basic": 52
   },
@@ -201,7 +201,8 @@
     "GeeksForGeeks_Insertion_in_Empty_Circular_List": true,
     "GeeksForGeeks_Kth_from_End_of_Linked_List": true,
     "GeeksForGeeks_Middle_of_Linked_List": true,
-    "GeeksForGeeks_Remove_Duplicates_in_Sorted_Linked_List": true
+    "GeeksForGeeks_Remove_Duplicates_in_Sorted_Linked_List": true,
+    "GeeksForGeeks_Flatten_Linked_List": true
   },
   "activityHistory": {
     "2026-09-29": 7,
@@ -222,7 +223,7 @@
     "2026-10-19": 18,
     "2026-10-20": 4,
     "2026-10-21": 20,
-    "2026-10-22": 11
+    "2026-10-22": 12
   },
   "todayProblems": [
     "Maximum Level in Binary Tree",
@@ -235,6 +236,7 @@
     "Insertion in Empty Circular List",
     "Kth from End of Linked List",
     "Middle of Linked List",
-    "Remove Duplicates in Sorted Linked List"
+    "Remove Duplicates in Sorted Linked List",
+    "Flatten Linked List"
   ]
 }
