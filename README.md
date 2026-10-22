@@ -110,3 +110,4 @@
 | 108 | [Maximum Level in Binary Tree](./GeeksForGeeks/Easy/Maximum%20Level%20in%20Binary%20Tree) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/maximum-depth-of-binary-tree/1?page=2&category=Tree&difficulty=Easy&sortBy=submissions) | Easy | 22 Oct 2026 | 03:12 am |
 | 109 | [Linked List End Insertion](./GeeksForGeeks/Basic/Linked%20List%20End%20Insertion) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/linked-list-insertion-1587115620/1) | Basic | 22 Oct 2026 | 01:41 pm |
 | 110 | [Length of Linked List](./GeeksForGeeks/Basic/Length%20of%20Linked%20List) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-nodes-of-linked-list/1) | Basic | 22 Oct 2026 | 01:42 pm |
+| 111 | [Is Linked List Length Even](./GeeksForGeeks/Basic/Is%20Linked%20List%20Length%20Even) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/linked-list-length-even-or-odd/1) | Basic | 22 Oct 2026 | 01:44 pm |
