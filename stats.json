@@ -1,14 +1,14 @@
 {
-  "totalSolved": 182,
+  "totalSolved": 183,
   "currentStreak": 10,
   "maxStreak": 10,
   "lastSyncDate": "2026-10-22",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 77,
     "medium": 51,
     "hard": 8,
-    "basic": 46
+    "basic": 47
   },
   "syncedProblems": {
     "LeetCode_Two_Sum": true,
@@ -192,7 +192,8 @@
     "GeeksForGeeks_Visit_Leaves_with_Budget": true,
     "GeeksForGeeks_Largest_Value_of_Every_Level": true,
     "GeeksForGeeks_Maximum_Level_in_Binary_Tree": true,
-    "GeeksForGeeks_Linked_List_End_Insertion": true
+    "GeeksForGeeks_Linked_List_End_Insertion": true,
+    "GeeksForGeeks_Length_of_Linked_List": true
   },
   "activityHistory": {
     "2026-09-29": 7,
@@ -213,10 +214,11 @@
     "2026-10-19": 18,
     "2026-10-20": 4,
     "2026-10-21": 20,
-    "2026-10-22": 2
+    "2026-10-22": 3
   },
   "todayProblems": [
     "Maximum Level in Binary Tree",
-    "Linked List End Insertion"
+    "Linked List End Insertion",
+    "Length of Linked List"
   ]
 }
