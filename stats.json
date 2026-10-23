@@ -1,12 +1,12 @@
 {
-  "totalSolved": 193,
+  "totalSolved": 194,
   "currentStreak": 11,
   "maxStreak": 11,
   "lastSyncDate": "2026-10-23",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 80,
-    "medium": 53,
+    "medium": 54,
     "hard": 8,
     "basic": 52
   },
@@ -203,7 +203,8 @@
     "GeeksForGeeks_Middle_of_Linked_List": true,
     "GeeksForGeeks_Remove_Duplicates_in_Sorted_Linked_List": true,
     "GeeksForGeeks_Flatten_Linked_List": true,
-    "LeetCode_Number_of_Provinces": true
+    "LeetCode_Number_of_Provinces": true,
+    "LeetCode_Number_of_Islands": true
   },
   "activityHistory": {
     "2026-09-29": 7,
@@ -225,9 +226,10 @@
     "2026-10-20": 4,
     "2026-10-21": 20,
     "2026-10-22": 12,
-    "2026-10-23": 1
+    "2026-10-23": 2
   },
   "todayProblems": [
-    "Number of Provinces"
+    "Number of Provinces",
+    "Number of Islands"
   ]
 }
