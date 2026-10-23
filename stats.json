@@ -1,14 +1,14 @@
 {
-  "totalSolved": 194,
+  "totalSolved": 195,
   "currentStreak": 11,
   "maxStreak": 11,
   "lastSyncDate": "2026-10-23",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 80,
     "medium": 54,
     "hard": 8,
-    "basic": 52
+    "basic": 53
   },
   "syncedProblems": {
     "LeetCode_Two_Sum": true,
@@ -204,7 +204,8 @@
     "GeeksForGeeks_Remove_Duplicates_in_Sorted_Linked_List": true,
     "GeeksForGeeks_Flatten_Linked_List": true,
     "LeetCode_Number_of_Provinces": true,
-    "LeetCode_Number_of_Islands": true
+    "LeetCode_Number_of_Islands": true,
+    "GeeksForGeeks_Graph_Adjacency_List_Traversal": true
   },
   "activityHistory": {
     "2026-09-29": 7,
@@ -226,10 +227,11 @@
     "2026-10-20": 4,
     "2026-10-21": 20,
     "2026-10-22": 12,
-    "2026-10-23": 2
+    "2026-10-23": 3
   },
   "todayProblems": [
     "Number of Provinces",
-    "Number of Islands"
+    "Number of Islands",
+    "Graph Adjacency List Traversal"
   ]
 }

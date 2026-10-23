@@ -121,3 +121,4 @@
 | 119 | [Flatten Linked List](./GeeksForGeeks/Medium/Flatten%20Linked%20List) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/flattening-a-linked-list/1) | Medium | 22 Oct 2026 | 02:12 pm |
 | 120 | [Number of Provinces](./LeetCode/Medium/Number%20of%20Provinces) | [LeetCode](https://leetcode.com/problems/number-of-provinces/) | Medium | 23 Oct 2026 | 02:34 pm |
 | 121 | [Number of Islands](./LeetCode/Medium/Number%20of%20Islands) | [LeetCode](https://leetcode.com/problems/number-of-islands/) | Medium | 23 Oct 2026 | 03:17 pm |
+| 122 | [Graph Adjacency List Traversal](./GeeksForGeeks/Basic/Graph%20Adjacency%20List%20Traversal) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/print-adjacency-list-1587115620/1) | Basic | 23 Oct 2026 | 03:22 pm |
