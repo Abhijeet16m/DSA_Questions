@@ -1,12 +1,12 @@
 {
-  "totalSolved": 192,
-  "currentStreak": 10,
-  "maxStreak": 10,
-  "lastSyncDate": "2026-10-22",
-  "todayCount": 12,
+  "totalSolved": 193,
+  "currentStreak": 11,
+  "maxStreak": 11,
+  "lastSyncDate": "2026-10-23",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 80,
-    "medium": 52,
+    "medium": 53,
     "hard": 8,
     "basic": 52
   },
@@ -202,7 +202,8 @@
     "GeeksForGeeks_Kth_from_End_of_Linked_List": true,
     "GeeksForGeeks_Middle_of_Linked_List": true,
     "GeeksForGeeks_Remove_Duplicates_in_Sorted_Linked_List": true,
-    "GeeksForGeeks_Flatten_Linked_List": true
+    "GeeksForGeeks_Flatten_Linked_List": true,
+    "LeetCode_Number_of_Provinces": true
   },
   "activityHistory": {
     "2026-09-29": 7,
@@ -223,20 +224,10 @@
     "2026-10-19": 18,
     "2026-10-20": 4,
     "2026-10-21": 20,
-    "2026-10-22": 12
+    "2026-10-22": 12,
+    "2026-10-23": 1
   },
   "todayProblems": [
-    "Maximum Level in Binary Tree",
-    "Linked List End Insertion",
-    "Length of Linked List",
-    "Is Linked List Length Even",
-    "Linked List Traversal",
-    "Doubly Linked List Traversal",
-    "Length of Circular Linked List",
-    "Insertion in Empty Circular List",
-    "Kth from End of Linked List",
-    "Middle of Linked List",
-    "Remove Duplicates in Sorted Linked List",
-    "Flatten Linked List"
+    "Number of Provinces"
   ]
 }
