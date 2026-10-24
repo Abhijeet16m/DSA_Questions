@@ -126,3 +126,4 @@
 | 124 | [Number of Enclaves](./LeetCode/Medium/Number%20of%20Enclaves) | [LeetCode](https://leetcode.com/problems/number-of-enclaves/) | Medium | 24 Oct 2026 | 02:26 pm |
 | 125 | [Surrounded Regions](./LeetCode/Medium/Surrounded%20Regions) | [LeetCode](https://leetcode.com/problems/surrounded-regions/) | Medium | 24 Oct 2026 | 02:59 pm |
 | 126 | [Rotting Oranges](./LeetCode/Medium/Rotting%20Oranges) | [LeetCode](https://leetcode.com/problems/rotting-oranges/) | Medium | 24 Oct 2026 | 03:42 pm |
+| 127 | [Find Center of Star Graph](./LeetCode/Easy/Find%20Center%20of%20Star%20Graph) | [LeetCode](https://leetcode.com/problems/find-center-of-star-graph/) | Easy | 25 Oct 2026 | 04:09 am |
