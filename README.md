@@ -125,3 +125,4 @@
 | 123 | [Flood Fill](./LeetCode/Easy/Flood%20Fill) | [LeetCode](https://leetcode.com/problems/flood-fill/) | Easy | 23 Oct 2026 | 03:43 pm |
 | 124 | [Number of Enclaves](./LeetCode/Medium/Number%20of%20Enclaves) | [LeetCode](https://leetcode.com/problems/number-of-enclaves/) | Medium | 24 Oct 2026 | 02:26 pm |
 | 125 | [Surrounded Regions](./LeetCode/Medium/Surrounded%20Regions) | [LeetCode](https://leetcode.com/problems/surrounded-regions/) | Medium | 24 Oct 2026 | 02:59 pm |
+| 126 | [Rotting Oranges](./LeetCode/Medium/Rotting%20Oranges) | [LeetCode](https://leetcode.com/problems/rotting-oranges/) | Medium | 24 Oct 2026 | 03:42 pm |

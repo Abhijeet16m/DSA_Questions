@@ -1,12 +1,12 @@
 {
-  "totalSolved": 198,
+  "totalSolved": 199,
   "currentStreak": 12,
   "maxStreak": 12,
   "lastSyncDate": "2026-10-24",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 81,
-    "medium": 56,
+    "medium": 57,
     "hard": 8,
     "basic": 53
   },
@@ -208,7 +208,8 @@
     "GeeksForGeeks_Graph_Adjacency_List_Traversal": true,
     "LeetCode_Flood_Fill": true,
     "LeetCode_Number_of_Enclaves": true,
-    "LeetCode_Surrounded_Regions": true
+    "LeetCode_Surrounded_Regions": true,
+    "LeetCode_Rotting_Oranges": true
   },
   "activityHistory": {
     "2026-09-29": 7,
@@ -231,10 +232,11 @@
     "2026-10-21": 20,
     "2026-10-22": 12,
     "2026-10-23": 4,
-    "2026-10-24": 2
+    "2026-10-24": 3
   },
   "todayProblems": [
     "Number of Enclaves",
-    "Surrounded Regions"
+    "Surrounded Regions",
+    "Rotting Oranges"
   ]
 }
