@@ -124,3 +124,4 @@
 | 122 | [Graph Adjacency List Traversal](./GeeksForGeeks/Basic/Graph%20Adjacency%20List%20Traversal) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/print-adjacency-list-1587115620/1) | Basic | 23 Oct 2026 | 03:22 pm |
 | 123 | [Flood Fill](./LeetCode/Easy/Flood%20Fill) | [LeetCode](https://leetcode.com/problems/flood-fill/) | Easy | 23 Oct 2026 | 03:43 pm |
 | 124 | [Number of Enclaves](./LeetCode/Medium/Number%20of%20Enclaves) | [LeetCode](https://leetcode.com/problems/number-of-enclaves/) | Medium | 24 Oct 2026 | 02:26 pm |
+| 125 | [Surrounded Regions](./LeetCode/Medium/Surrounded%20Regions) | [LeetCode](https://leetcode.com/problems/surrounded-regions/) | Medium | 24 Oct 2026 | 02:59 pm |
