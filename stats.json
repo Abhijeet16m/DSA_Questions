@@ -1,11 +1,11 @@
 {
-  "totalSolved": 200,
+  "totalSolved": 201,
   "currentStreak": 13,
   "maxStreak": 13,
   "lastSyncDate": "2026-10-25",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 82,
+    "easy": 83,
     "medium": 57,
     "hard": 8,
     "basic": 53
@@ -210,7 +210,8 @@
     "LeetCode_Number_of_Enclaves": true,
     "LeetCode_Surrounded_Regions": true,
     "LeetCode_Rotting_Oranges": true,
-    "LeetCode_Find_Center_of_Star_Graph": true
+    "LeetCode_Find_Center_of_Star_Graph": true,
+    "LeetCode_Find_if_Path_Exists_in_Graph": true
   },
   "activityHistory": {
     "2026-09-29": 7,
@@ -234,9 +235,10 @@
     "2026-10-22": 12,
     "2026-10-23": 4,
     "2026-10-24": 3,
-    "2026-10-25": 1
+    "2026-10-25": 2
   },
   "todayProblems": [
-    "Find Center of Star Graph"
+    "Find Center of Star Graph",
+    "Find if Path Exists in Graph"
   ]
 }
