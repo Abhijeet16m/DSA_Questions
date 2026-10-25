@@ -1,12 +1,12 @@
 {
-  "totalSolved": 202,
+  "totalSolved": 203,
   "currentStreak": 13,
   "maxStreak": 13,
   "lastSyncDate": "2026-10-25",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
     "easy": 83,
-    "medium": 58,
+    "medium": 59,
     "hard": 8,
     "basic": 53
   },
@@ -212,7 +212,8 @@
     "LeetCode_Rotting_Oranges": true,
     "LeetCode_Find_Center_of_Star_Graph": true,
     "LeetCode_Find_if_Path_Exists_in_Graph": true,
-    "LeetCode_Keys_and_Rooms": true
+    "LeetCode_Keys_and_Rooms": true,
+    "LeetCode_01_Matrix": true
   },
   "activityHistory": {
     "2026-09-29": 7,
@@ -236,11 +237,12 @@
     "2026-10-22": 12,
     "2026-10-23": 4,
     "2026-10-24": 3,
-    "2026-10-25": 3
+    "2026-10-25": 4
   },
   "todayProblems": [
     "Find Center of Star Graph",
     "Find if Path Exists in Graph",
-    "Keys and Rooms"
+    "Keys and Rooms",
+    "01 Matrix"
   ]
 }

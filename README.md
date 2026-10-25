@@ -129,3 +129,4 @@
 | 127 | [Find Center of Star Graph](./LeetCode/Easy/Find%20Center%20of%20Star%20Graph) | [LeetCode](https://leetcode.com/problems/find-center-of-star-graph/) | Easy | 25 Oct 2026 | 04:09 am |
 | 128 | [Find if Path Exists in Graph](./LeetCode/Easy/Find%20if%20Path%20Exists%20in%20Graph) | [LeetCode](https://leetcode.com/problems/find-if-path-exists-in-graph/) | Easy | 25 Oct 2026 | 04:26 am |
 | 129 | [Keys and Rooms](./LeetCode/Medium/Keys%20and%20Rooms) | [LeetCode](https://leetcode.com/problems/keys-and-rooms/) | Medium | 25 Oct 2026 | 04:46 am |
+| 130 | [01 Matrix](./LeetCode/Medium/01%20Matrix) | [LeetCode](https://leetcode.com/problems/01-matrix/) | Medium | 25 Oct 2026 | 05:56 am |
