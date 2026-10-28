@@ -1,11 +1,11 @@
 {
-  "totalSolved": 204,
-  "currentStreak": 14,
+  "totalSolved": 205,
+  "currentStreak": 1,
   "maxStreak": 14,
-  "lastSyncDate": "2026-10-26",
+  "lastSyncDate": "2026-10-28",
   "todayCount": 1,
   "difficultyCounts": {
-    "easy": 83,
+    "easy": 84,
     "medium": 60,
     "hard": 8,
     "basic": 53
@@ -214,7 +214,8 @@
     "LeetCode_Find_if_Path_Exists_in_Graph": true,
     "LeetCode_Keys_and_Rooms": true,
     "LeetCode_01_Matrix": true,
-    "LeetCode_Is_Graph_Bipartite?": true
+    "LeetCode_Is_Graph_Bipartite?": true,
+    "LeetCode_Climbing_Stairs": true
   },
   "activityHistory": {
     "2026-09-29": 7,
@@ -239,9 +240,10 @@
     "2026-10-23": 4,
     "2026-10-24": 3,
     "2026-10-25": 4,
-    "2026-10-26": 1
+    "2026-10-26": 1,
+    "2026-10-28": 1
   },
   "todayProblems": [
-    "Is Graph Bipartite?"
+    "Climbing Stairs"
   ]
 }

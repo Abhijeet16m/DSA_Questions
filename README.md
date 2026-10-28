@@ -131,3 +131,4 @@
 | 129 | [Keys and Rooms](./LeetCode/Medium/Keys%20and%20Rooms) | [LeetCode](https://leetcode.com/problems/keys-and-rooms/) | Medium | 25 Oct 2026 | 04:46 am |
 | 130 | [01 Matrix](./LeetCode/Medium/01%20Matrix) | [LeetCode](https://leetcode.com/problems/01-matrix/) | Medium | 25 Oct 2026 | 05:56 am |
 | 131 | [Is Graph Bipartite?](./LeetCode/Medium/Is%20Graph%20Bipartite%3F) | [LeetCode](https://leetcode.com/problems/is-graph-bipartite/) | Medium | 26 Oct 2026 | 02:37 pm |
+| 132 | [Climbing Stairs](./LeetCode/Easy/Climbing%20Stairs) | [LeetCode](https://leetcode.com/problems/climbing-stairs/) | Easy | 28 Oct 2026 | 02:56 pm |
