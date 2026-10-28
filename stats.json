@@ -1,12 +1,12 @@
 {
-  "totalSolved": 205,
+  "totalSolved": 206,
   "currentStreak": 1,
   "maxStreak": 14,
   "lastSyncDate": "2026-10-28",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 84,
-    "medium": 60,
+    "medium": 61,
     "hard": 8,
     "basic": 53
   },
@@ -215,7 +215,8 @@
     "LeetCode_Keys_and_Rooms": true,
     "LeetCode_01_Matrix": true,
     "LeetCode_Is_Graph_Bipartite?": true,
-    "LeetCode_Climbing_Stairs": true
+    "LeetCode_Climbing_Stairs": true,
+    "LeetCode_House_Robber": true
   },
   "activityHistory": {
     "2026-09-29": 7,
@@ -241,9 +242,10 @@
     "2026-10-24": 3,
     "2026-10-25": 4,
     "2026-10-26": 1,
-    "2026-10-28": 1
+    "2026-10-28": 2
   },
   "todayProblems": [
-    "Climbing Stairs"
+    "Climbing Stairs",
+    "House Robber"
   ]
 }
