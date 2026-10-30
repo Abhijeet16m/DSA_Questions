@@ -133,3 +133,4 @@
 | 131 | [Is Graph Bipartite?](./LeetCode/Medium/Is%20Graph%20Bipartite%3F) | [LeetCode](https://leetcode.com/problems/is-graph-bipartite/) | Medium | 26 Oct 2026 | 02:37 pm |
 | 132 | [Climbing Stairs](./LeetCode/Easy/Climbing%20Stairs) | [LeetCode](https://leetcode.com/problems/climbing-stairs/) | Easy | 28 Oct 2026 | 02:56 pm |
 | 133 | [House Robber](./LeetCode/Medium/House%20Robber) | [LeetCode](https://leetcode.com/problems/house-robber/) | Medium | 28 Oct 2026 | 03:04 pm |
+| 134 | [Max Product Pair](./GeeksForGeeks/Basic/Max%20Product%20Pair) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/maximum-product-of-two-numbers2730/1?page=2&category=Arrays&difficulty=Basic&sortBy=submissions) | Basic | 30 Oct 2026 | 11:20 pm |
