@@ -1,14 +1,14 @@
 {
-  "totalSolved": 214,
-  "currentStreak": 1,
+  "totalSolved": 215,
+  "currentStreak": 2,
   "maxStreak": 14,
-  "lastSyncDate": "2026-10-30",
-  "todayCount": 8,
+  "lastSyncDate": "2026-10-31",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 84,
     "medium": 61,
     "hard": 8,
-    "basic": 61
+    "basic": 62
   },
   "syncedProblems": {
     "LeetCode_Two_Sum": true,
@@ -224,7 +224,8 @@
     "GeeksForGeeks_Fighting_the_Darkness": true,
     "GeeksForGeeks_Segregate_Even_and_Odd_numbers": true,
     "GeeksForGeeks_Reverse_Subarray": true,
-    "GeeksForGeeks_Type_of_array": true
+    "GeeksForGeeks_Type_of_array": true,
+    "GeeksForGeeks_Max_Distance_Between_Two_in_Array": true
   },
   "activityHistory": {
     "2026-09-29": 7,
@@ -251,16 +252,10 @@
     "2026-10-25": 4,
     "2026-10-26": 1,
     "2026-10-28": 2,
-    "2026-10-30": 8
+    "2026-10-30": 8,
+    "2026-10-31": 1
   },
   "todayProblems": [
-    "Max Product Pair",
-    "Remove Duplicates from Unsorted",
-    "Max and Min Product from 2 Arrays",
-    "Alternative Sorting",
-    "Fighting the Darkness",
-    "Segregate Even and Odd numbers",
-    "Reverse Subarray",
-    "Type of array"
+    "Max Distance Between Two in Array"
   ]
 }
