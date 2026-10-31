@@ -1,14 +1,14 @@
 {
-  "totalSolved": 216,
+  "totalSolved": 217,
   "currentStreak": 2,
   "maxStreak": 14,
   "lastSyncDate": "2026-10-31",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 84,
     "medium": 61,
     "hard": 8,
-    "basic": 63
+    "basic": 64
   },
   "syncedProblems": {
     "LeetCode_Two_Sum": true,
@@ -226,7 +226,8 @@
     "GeeksForGeeks_Reverse_Subarray": true,
     "GeeksForGeeks_Type_of_array": true,
     "GeeksForGeeks_Max_Distance_Between_Two_in_Array": true,
-    "GeeksForGeeks_Sum_of_Distinct_in_Array": true
+    "GeeksForGeeks_Sum_of_Distinct_in_Array": true,
+    "GeeksForGeeks_Absolute_Digit_Diff_1_in_Array": true
   },
   "activityHistory": {
     "2026-09-29": 7,
@@ -254,10 +255,11 @@
     "2026-10-26": 1,
     "2026-10-28": 2,
     "2026-10-30": 8,
-    "2026-10-31": 2
+    "2026-10-31": 3
   },
   "todayProblems": [
     "Max Distance Between Two in Array",
-    "Sum of Distinct in Array"
+    "Sum of Distinct in Array",
+    "Absolute Digit Diff 1 in Array"
   ]
 }
