@@ -1,14 +1,14 @@
 {
-  "totalSolved": 219,
+  "totalSolved": 220,
   "currentStreak": 2,
   "maxStreak": 14,
   "lastSyncDate": "2026-10-31",
-  "todayCount": 5,
+  "todayCount": 6,
   "difficultyCounts": {
     "easy": 84,
     "medium": 61,
     "hard": 8,
-    "basic": 66
+    "basic": 67
   },
   "syncedProblems": {
     "LeetCode_Two_Sum": true,
@@ -229,7 +229,8 @@
     "GeeksForGeeks_Sum_of_Distinct_in_Array": true,
     "GeeksForGeeks_Absolute_Digit_Diff_1_in_Array": true,
     "GeeksForGeeks_Occurrences_of_Consecutive_3_Numbers": true,
-    "GeeksForGeeks_Make_Distinct_Digit_Array": true
+    "GeeksForGeeks_Make_Distinct_Digit_Array": true,
+    "GeeksForGeeks_Highest_and_Lowest_Frequencies": true
   },
   "activityHistory": {
     "2026-09-29": 7,
@@ -257,13 +258,14 @@
     "2026-10-26": 1,
     "2026-10-28": 2,
     "2026-10-30": 8,
-    "2026-10-31": 5
+    "2026-10-31": 6
   },
   "todayProblems": [
     "Max Distance Between Two in Array",
     "Sum of Distinct in Array",
     "Absolute Digit Diff 1 in Array",
     "Occurrences of Consecutive 3 Numbers",
-    "Make Distinct Digit Array"
+    "Make Distinct Digit Array",
+    "Highest and Lowest Frequencies"
   ]
 }
