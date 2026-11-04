@@ -159,3 +159,4 @@
 | 157 | [Next Right Node](./GeeksForGeeks/Easy/Next%20Right%20Node) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/next-right-node/1?page=2&category=Tree&difficulty=Easy&sortBy=submissions) | Easy | 04 Nov 2026 | 08:25 pm |
 | 158 | [Maximum Node Level](./GeeksForGeeks/Easy/Maximum%20Node%20Level) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/maximum-node-level/1?page=2&category=Tree&difficulty=Easy&sortBy=submissions) | Easy | 04 Nov 2026 | 08:29 pm |
 | 159 | [Binary Tree Paths](./LeetCode/Easy/Binary%20Tree%20Paths) | [LeetCode](https://leetcode.com/problems/binary-tree-paths/) | Easy | 04 Nov 2026 | 09:20 pm |
+| 160 | [Sum of Left Leaves](./LeetCode/Easy/Sum%20of%20Left%20Leaves) | [LeetCode](https://leetcode.com/problems/sum-of-left-leaves/) | Easy | 04 Nov 2026 | 09:28 pm |
