@@ -163,3 +163,4 @@
 | 161 | [Maximum Depth of N-ary Tree](./LeetCode/Easy/Maximum%20Depth%20of%20N-ary%20Tree) | [LeetCode](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) | Easy | 04 Nov 2026 | 09:55 pm |
 | 162 | [Binary Tree Tilt](./LeetCode/Easy/Binary%20Tree%20Tilt) | [LeetCode](https://leetcode.com/problems/binary-tree-tilt/) | Easy | 04 Nov 2026 | 10:03 pm |
 | 163 | [N-ary Tree Preorder Traversal](./LeetCode/Easy/N-ary%20Tree%20Preorder%20Traversal) | [LeetCode](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | Easy | 05 Nov 2026 | 12:36 am |
+| 164 | [N-ary Tree Postorder Traversal](./LeetCode/Easy/N-ary%20Tree%20Postorder%20Traversal) | [LeetCode](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) | Easy | 05 Nov 2026 | 12:48 am |
