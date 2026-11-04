@@ -160,3 +160,4 @@
 | 158 | [Maximum Node Level](./GeeksForGeeks/Easy/Maximum%20Node%20Level) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/maximum-node-level/1?page=2&category=Tree&difficulty=Easy&sortBy=submissions) | Easy | 04 Nov 2026 | 08:29 pm |
 | 159 | [Binary Tree Paths](./LeetCode/Easy/Binary%20Tree%20Paths) | [LeetCode](https://leetcode.com/problems/binary-tree-paths/) | Easy | 04 Nov 2026 | 09:20 pm |
 | 160 | [Sum of Left Leaves](./LeetCode/Easy/Sum%20of%20Left%20Leaves) | [LeetCode](https://leetcode.com/problems/sum-of-left-leaves/) | Easy | 04 Nov 2026 | 09:28 pm |
+| 161 | [Maximum Depth of N-ary Tree](./LeetCode/Easy/Maximum%20Depth%20of%20N-ary%20Tree) | [LeetCode](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) | Easy | 04 Nov 2026 | 09:55 pm |
