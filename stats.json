@@ -1,11 +1,11 @@
 {
-  "totalSolved": 229,
+  "totalSolved": 230,
   "currentStreak": 1,
   "maxStreak": 14,
   "lastSyncDate": "2026-11-04",
-  "todayCount": 5,
+  "todayCount": 6,
   "difficultyCounts": {
-    "easy": 90,
+    "easy": 91,
     "medium": 61,
     "hard": 8,
     "basic": 70
@@ -239,7 +239,8 @@
     "GeeksForGeeks_Remove_Half_Nodes": true,
     "GeeksForGeeks_Sum_of_Left_Leaf_Nodes": true,
     "GeeksForGeeks_Odd_Even_Level_Sum_Difference": true,
-    "GeeksForGeeks_Level_of_Node_in_Binary_Tree": true
+    "GeeksForGeeks_Level_of_Node_in_Binary_Tree": true,
+    "GeeksForGeeks_Next_Right_Node": true
   },
   "activityHistory": {
     "2026-09-29": 7,
@@ -269,13 +270,14 @@
     "2026-10-30": 8,
     "2026-10-31": 9,
     "2026-11-01": 1,
-    "2026-11-04": 5
+    "2026-11-04": 6
   },
   "todayProblems": [
     "Sum of Leaf Nodes",
     "Remove Half Nodes",
     "Sum of Left Leaf Nodes",
     "Odd Even Level Sum Difference",
-    "Level of Node in Binary Tree"
+    "Level of Node in Binary Tree",
+    "Next Right Node"
   ]
 }
