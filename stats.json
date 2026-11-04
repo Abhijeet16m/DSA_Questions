@@ -1,11 +1,11 @@
 {
-  "totalSolved": 226,
+  "totalSolved": 227,
   "currentStreak": 1,
   "maxStreak": 14,
   "lastSyncDate": "2026-11-04",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
-    "easy": 87,
+    "easy": 88,
     "medium": 61,
     "hard": 8,
     "basic": 70
@@ -236,7 +236,8 @@
     "GeeksForGeeks_Sum_Array_Puzzle": true,
     "GeeksForGeeks_Maximum_Packages_within_Time": true,
     "GeeksForGeeks_Sum_of_Leaf_Nodes": true,
-    "GeeksForGeeks_Remove_Half_Nodes": true
+    "GeeksForGeeks_Remove_Half_Nodes": true,
+    "GeeksForGeeks_Sum_of_Left_Leaf_Nodes": true
   },
   "activityHistory": {
     "2026-09-29": 7,
@@ -266,10 +267,11 @@
     "2026-10-30": 8,
     "2026-10-31": 9,
     "2026-11-01": 1,
-    "2026-11-04": 2
+    "2026-11-04": 3
   },
   "todayProblems": [
     "Sum of Leaf Nodes",
-    "Remove Half Nodes"
+    "Remove Half Nodes",
+    "Sum of Left Leaf Nodes"
   ]
 }
