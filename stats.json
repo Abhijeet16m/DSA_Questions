@@ -1,11 +1,11 @@
 {
-  "totalSolved": 231,
+  "totalSolved": 232,
   "currentStreak": 1,
   "maxStreak": 14,
   "lastSyncDate": "2026-11-04",
-  "todayCount": 7,
+  "todayCount": 8,
   "difficultyCounts": {
-    "easy": 92,
+    "easy": 93,
     "medium": 61,
     "hard": 8,
     "basic": 70
@@ -241,7 +241,8 @@
     "GeeksForGeeks_Odd_Even_Level_Sum_Difference": true,
     "GeeksForGeeks_Level_of_Node_in_Binary_Tree": true,
     "GeeksForGeeks_Next_Right_Node": true,
-    "GeeksForGeeks_Maximum_Node_Level": true
+    "GeeksForGeeks_Maximum_Node_Level": true,
+    "LeetCode_Binary_Tree_Paths": true
   },
   "activityHistory": {
     "2026-09-29": 7,
@@ -271,7 +272,7 @@
     "2026-10-30": 8,
     "2026-10-31": 9,
     "2026-11-01": 1,
-    "2026-11-04": 7
+    "2026-11-04": 8
   },
   "todayProblems": [
     "Sum of Leaf Nodes",
@@ -280,6 +281,7 @@
     "Odd Even Level Sum Difference",
     "Level of Node in Binary Tree",
     "Next Right Node",
-    "Maximum Node Level"
+    "Maximum Node Level",
+    "Binary Tree Paths"
   ]
 }

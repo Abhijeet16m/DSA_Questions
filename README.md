@@ -158,3 +158,4 @@
 | 156 | [Level of Node in Binary Tree](./GeeksForGeeks/Easy/Level%20of%20Node%20in%20Binary%20Tree) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/level-of-a-node-in-binary-tree/1?page=2&category=Tree&difficulty=Easy&sortBy=submissions) | Easy | 04 Nov 2026 | 11:19 am |
 | 157 | [Next Right Node](./GeeksForGeeks/Easy/Next%20Right%20Node) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/next-right-node/1?page=2&category=Tree&difficulty=Easy&sortBy=submissions) | Easy | 04 Nov 2026 | 08:25 pm |
 | 158 | [Maximum Node Level](./GeeksForGeeks/Easy/Maximum%20Node%20Level) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/maximum-node-level/1?page=2&category=Tree&difficulty=Easy&sortBy=submissions) | Easy | 04 Nov 2026 | 08:29 pm |
+| 159 | [Binary Tree Paths](./LeetCode/Easy/Binary%20Tree%20Paths) | [LeetCode](https://leetcode.com/problems/binary-tree-paths/) | Easy | 04 Nov 2026 | 09:20 pm |
