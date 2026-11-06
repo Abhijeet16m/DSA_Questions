@@ -166,3 +166,4 @@
 | 164 | [N-ary Tree Postorder Traversal](./LeetCode/Easy/N-ary%20Tree%20Postorder%20Traversal) | [LeetCode](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) | Easy | 05 Nov 2026 | 12:48 am |
 | 165 | [Unique Binary Search Trees](./LeetCode/Medium/Unique%20Binary%20Search%20Trees) | [LeetCode](https://leetcode.com/problems/unique-binary-search-trees/) | Medium | 06 Nov 2026 | 01:49 pm |
 | 166 | [Sum Root to Leaf Numbers](./LeetCode/Medium/Sum%20Root%20to%20Leaf%20Numbers) | [LeetCode](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | Medium | 06 Nov 2026 | 01:56 pm |
+| 167 | [Invert Binary Tree](./LeetCode/Easy/Invert%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/invert-binary-tree/) | Easy | 06 Nov 2026 | 02:36 pm |
