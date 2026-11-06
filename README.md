@@ -164,3 +164,4 @@
 | 162 | [Binary Tree Tilt](./LeetCode/Easy/Binary%20Tree%20Tilt) | [LeetCode](https://leetcode.com/problems/binary-tree-tilt/) | Easy | 04 Nov 2026 | 10:03 pm |
 | 163 | [N-ary Tree Preorder Traversal](./LeetCode/Easy/N-ary%20Tree%20Preorder%20Traversal) | [LeetCode](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | Easy | 05 Nov 2026 | 12:36 am |
 | 164 | [N-ary Tree Postorder Traversal](./LeetCode/Easy/N-ary%20Tree%20Postorder%20Traversal) | [LeetCode](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) | Easy | 05 Nov 2026 | 12:48 am |
+| 165 | [Unique Binary Search Trees](./LeetCode/Medium/Unique%20Binary%20Search%20Trees) | [LeetCode](https://leetcode.com/problems/unique-binary-search-trees/) | Medium | 06 Nov 2026 | 01:49 pm |

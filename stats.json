@@ -1,12 +1,12 @@
 {
-  "totalSolved": 237,
-  "currentStreak": 2,
+  "totalSolved": 238,
+  "currentStreak": 3,
   "maxStreak": 14,
-  "lastSyncDate": "2026-11-05",
-  "todayCount": 2,
+  "lastSyncDate": "2026-11-06",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 98,
-    "medium": 61,
+    "medium": 62,
     "hard": 8,
     "basic": 70
   },
@@ -247,7 +247,8 @@
     "LeetCode_Maximum_Depth_of_N-ary_Tree": true,
     "LeetCode_Binary_Tree_Tilt": true,
     "LeetCode_N-ary_Tree_Preorder_Traversal": true,
-    "LeetCode_N-ary_Tree_Postorder_Traversal": true
+    "LeetCode_N-ary_Tree_Postorder_Traversal": true,
+    "LeetCode_Unique_Binary_Search_Trees": true
   },
   "activityHistory": {
     "2026-09-29": 7,
@@ -278,10 +279,10 @@
     "2026-10-31": 9,
     "2026-11-01": 1,
     "2026-11-04": 11,
-    "2026-11-05": 2
+    "2026-11-05": 2,
+    "2026-11-06": 1
   },
   "todayProblems": [
-    "N-ary Tree Preorder Traversal",
-    "N-ary Tree Postorder Traversal"
+    "Unique Binary Search Trees"
   ]
 }
