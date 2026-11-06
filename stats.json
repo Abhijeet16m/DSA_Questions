@@ -1,12 +1,12 @@
 {
-  "totalSolved": 241,
-  "currentStreak": 3,
+  "totalSolved": 242,
+  "currentStreak": 4,
   "maxStreak": 14,
-  "lastSyncDate": "2026-11-06",
-  "todayCount": 4,
+  "lastSyncDate": "2026-11-07",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 100,
-    "medium": 63,
+    "medium": 64,
     "hard": 8,
     "basic": 70
   },
@@ -251,7 +251,8 @@
     "LeetCode_Unique_Binary_Search_Trees": true,
     "LeetCode_Sum_Root_to_Leaf_Numbers": true,
     "LeetCode_Invert_Binary_Tree": true,
-    "LeetCode_Subtree_of_Another_Tree": true
+    "LeetCode_Subtree_of_Another_Tree": true,
+    "LeetCode_Jump_Game_II": true
   },
   "activityHistory": {
     "2026-09-29": 7,
@@ -283,12 +284,10 @@
     "2026-11-01": 1,
     "2026-11-04": 11,
     "2026-11-05": 2,
-    "2026-11-06": 4
+    "2026-11-06": 4,
+    "2026-11-07": 1
   },
   "todayProblems": [
-    "Unique Binary Search Trees",
-    "Sum Root to Leaf Numbers",
-    "Invert Binary Tree",
-    "Subtree of Another Tree"
+    "Jump Game II"
   ]
 }
