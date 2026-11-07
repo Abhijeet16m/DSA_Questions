@@ -1,12 +1,12 @@
 {
-  "totalSolved": 247,
+  "totalSolved": 248,
   "currentStreak": 4,
   "maxStreak": 14,
   "lastSyncDate": "2026-11-07",
-  "todayCount": 6,
+  "todayCount": 7,
   "difficultyCounts": {
     "easy": 100,
-    "medium": 69,
+    "medium": 70,
     "hard": 8,
     "basic": 70
   },
@@ -257,7 +257,8 @@
     "LeetCode_Permutations_II": true,
     "LeetCode_Unique_Paths_II": true,
     "LeetCode_Minimum_Path_Sum": true,
-    "LeetCode_Spiral_Matrix": true
+    "LeetCode_Spiral_Matrix": true,
+    "LeetCode_Jump_Game": true
   },
   "activityHistory": {
     "2026-09-29": 7,
@@ -290,7 +291,7 @@
     "2026-11-04": 11,
     "2026-11-05": 2,
     "2026-11-06": 4,
-    "2026-11-07": 6
+    "2026-11-07": 7
   },
   "todayProblems": [
     "Jump Game II",
@@ -298,6 +299,7 @@
     "Permutations II",
     "Unique Paths II",
     "Minimum Path Sum",
-    "Spiral Matrix"
+    "Spiral Matrix",
+    "Jump Game"
   ]
 }
