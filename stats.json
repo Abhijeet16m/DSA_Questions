@@ -1,12 +1,12 @@
 {
-  "totalSolved": 251,
+  "totalSolved": 252,
   "currentStreak": 1,
   "maxStreak": 14,
   "lastSyncDate": "2026-11-09",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 100,
-    "medium": 73,
+    "medium": 74,
     "hard": 8,
     "basic": 70
   },
@@ -261,7 +261,8 @@
     "LeetCode_Jump_Game": true,
     "LeetCode_Insert_Interval": true,
     "LeetCode_Spiral_Matrix_II": true,
-    "LeetCode_Binary_Search_Tree_Iterator": true
+    "LeetCode_Binary_Search_Tree_Iterator": true,
+    "LeetCode_Kth_Smallest_Element_in_a_BST": true
   },
   "activityHistory": {
     "2026-09-29": 7,
@@ -295,9 +296,10 @@
     "2026-11-05": 2,
     "2026-11-06": 4,
     "2026-11-07": 9,
-    "2026-11-09": 1
+    "2026-11-09": 2
   },
   "todayProblems": [
-    "Binary Search Tree Iterator"
+    "Binary Search Tree Iterator",
+    "Kth Smallest Element in a BST"
   ]
 }

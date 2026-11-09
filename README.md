@@ -178,3 +178,4 @@
 | 176 | [Insert Interval](./LeetCode/Medium/Insert%20Interval) | [LeetCode](https://leetcode.com/problems/insert-interval/) | Medium | 07 Nov 2026 | 11:16 pm |
 | 177 | [Spiral Matrix II](./LeetCode/Medium/Spiral%20Matrix%20II) | [LeetCode](https://leetcode.com/problems/spiral-matrix-ii/) | Medium | 07 Nov 2026 | 11:25 pm |
 | 178 | [Binary Search Tree Iterator](./LeetCode/Medium/Binary%20Search%20Tree%20Iterator) | [LeetCode](https://leetcode.com/problems/binary-search-tree-iterator/) | Medium | 09 Nov 2026 | 07:11 am |
+| 179 | [Kth Smallest Element in a BST](./LeetCode/Medium/Kth%20Smallest%20Element%20in%20a%20BST) | [LeetCode](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | Medium | 09 Nov 2026 | 07:18 am |
