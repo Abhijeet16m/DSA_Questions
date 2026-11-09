@@ -177,3 +177,4 @@
 | 175 | [Jump Game](./LeetCode/Medium/Jump%20Game) | [LeetCode](https://leetcode.com/problems/jump-game/) | Medium | 07 Nov 2026 | 10:56 pm |
 | 176 | [Insert Interval](./LeetCode/Medium/Insert%20Interval) | [LeetCode](https://leetcode.com/problems/insert-interval/) | Medium | 07 Nov 2026 | 11:16 pm |
 | 177 | [Spiral Matrix II](./LeetCode/Medium/Spiral%20Matrix%20II) | [LeetCode](https://leetcode.com/problems/spiral-matrix-ii/) | Medium | 07 Nov 2026 | 11:25 pm |
+| 178 | [Binary Search Tree Iterator](./LeetCode/Medium/Binary%20Search%20Tree%20Iterator) | [LeetCode](https://leetcode.com/problems/binary-search-tree-iterator/) | Medium | 09 Nov 2026 | 07:11 am |
