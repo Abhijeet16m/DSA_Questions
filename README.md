@@ -186,3 +186,4 @@
 | 184 | [Candy](./LeetCode/Hard/Candy) | [LeetCode](https://leetcode.com/problems/candy/) | Hard | 11 Nov 2026 | 10:35 pm |
 | 185 | [Search in Rotated Sorted Array II](./LeetCode/Medium/Search%20in%20Rotated%20Sorted%20Array%20II) | [LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | Medium | 12 Nov 2026 | 04:17 pm |
 | 186 | [Find Minimum in Rotated Sorted Array II](./LeetCode/Hard/Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II) | [LeetCode](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | Hard | 12 Nov 2026 | 04:18 pm |
+| 187 | [Closest in BST](./GeeksForGeeks/Medium/Closest%20in%20BST) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-the-closest-element-in-bst/1?_gl=1*g6730j*_up*MQ..*_gs*MQ..&gclid=Cj0KCQiA5NXXBhDEARIsABAJhdKd1dNTqPTAxOAgSxWYCE--mwrTsrSuo2MtmWr0E8vhwvcTiK-Pua0aAh9SEALw_wcB&gbraid=0AAAAAC9yBkCJa00KMJvXGJwpIDMT_sgx0) | Medium | 12 Nov 2026 | 04:37 pm |
