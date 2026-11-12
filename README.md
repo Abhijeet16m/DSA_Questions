@@ -185,3 +185,4 @@
 | 183 | [Daily Temperatures](./LeetCode/Medium/Daily%20Temperatures) | [LeetCode](https://leetcode.com/problems/daily-temperatures/) | Medium | 11 Nov 2026 | 08:41 am |
 | 184 | [Candy](./LeetCode/Hard/Candy) | [LeetCode](https://leetcode.com/problems/candy/) | Hard | 11 Nov 2026 | 10:35 pm |
 | 185 | [Search in Rotated Sorted Array II](./LeetCode/Medium/Search%20in%20Rotated%20Sorted%20Array%20II) | [LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | Medium | 12 Nov 2026 | 04:17 pm |
+| 186 | [Find Minimum in Rotated Sorted Array II](./LeetCode/Hard/Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II) | [LeetCode](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | Hard | 12 Nov 2026 | 04:18 pm |

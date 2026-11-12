@@ -1,13 +1,13 @@
 {
-  "totalSolved": 258,
+  "totalSolved": 259,
   "currentStreak": 2,
   "maxStreak": 14,
   "lastSyncDate": "2026-11-12",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 100,
     "medium": 79,
-    "hard": 9,
+    "hard": 10,
     "basic": 70
   },
   "syncedProblems": {
@@ -268,7 +268,8 @@
     "LeetCode_Koko_Eating_Bananas": true,
     "LeetCode_Daily_Temperatures": true,
     "LeetCode_Candy": true,
-    "LeetCode_Search_in_Rotated_Sorted_Array_II": true
+    "LeetCode_Search_in_Rotated_Sorted_Array_II": true,
+    "LeetCode_Find_Minimum_in_Rotated_Sorted_Array_II": true
   },
   "activityHistory": {
     "2026-09-29": 7,
@@ -304,9 +305,10 @@
     "2026-11-07": 9,
     "2026-11-09": 2,
     "2026-11-11": 5,
-    "2026-11-12": 1
+    "2026-11-12": 2
   },
   "todayProblems": [
-    "Search in Rotated Sorted Array II"
+    "Search in Rotated Sorted Array II",
+    "Find Minimum in Rotated Sorted Array II"
   ]
 }
