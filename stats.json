@@ -1,12 +1,12 @@
 {
-  "totalSolved": 264,
+  "totalSolved": 265,
   "currentStreak": 1,
   "maxStreak": 14,
   "lastSyncDate": "2026-11-16",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 101,
-    "medium": 81,
+    "medium": 82,
     "hard": 10,
     "basic": 72
   },
@@ -274,7 +274,8 @@
     "LeetCode_Delete_Nodes_From_Linked_List_Present_in_Array": true,
     "LeetCode_Valid_Word": true,
     "GeeksForGeeks_Half_Ascending_and_Half_Descending_Sort": true,
-    "GeeksForGeeks_Merge_and_Sort": true
+    "GeeksForGeeks_Merge_and_Sort": true,
+    "LeetCode_Car_Fleet": true
   },
   "activityHistory": {
     "2026-09-29": 7,
@@ -312,10 +313,11 @@
     "2026-11-11": 5,
     "2026-11-12": 3,
     "2026-11-13": 2,
-    "2026-11-16": 2
+    "2026-11-16": 3
   },
   "todayProblems": [
     "Half Ascending and Half Descending Sort",
-    "Merge and Sort"
+    "Merge and Sort",
+    "Car Fleet"
   ]
 }
