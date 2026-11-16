@@ -1,14 +1,14 @@
 {
-  "totalSolved": 262,
-  "currentStreak": 3,
+  "totalSolved": 263,
+  "currentStreak": 1,
   "maxStreak": 14,
-  "lastSyncDate": "2026-11-13",
-  "todayCount": 2,
+  "lastSyncDate": "2026-11-16",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 101,
     "medium": 81,
     "hard": 10,
-    "basic": 70
+    "basic": 71
   },
   "syncedProblems": {
     "LeetCode_Two_Sum": true,
@@ -272,7 +272,8 @@
     "LeetCode_Find_Minimum_in_Rotated_Sorted_Array_II": true,
     "GeeksForGeeks_Closest_in_BST": true,
     "LeetCode_Delete_Nodes_From_Linked_List_Present_in_Array": true,
-    "LeetCode_Valid_Word": true
+    "LeetCode_Valid_Word": true,
+    "GeeksForGeeks_Half_Ascending_and_Half_Descending_Sort": true
   },
   "activityHistory": {
     "2026-09-29": 7,
@@ -309,10 +310,10 @@
     "2026-11-09": 2,
     "2026-11-11": 5,
     "2026-11-12": 3,
-    "2026-11-13": 2
+    "2026-11-13": 2,
+    "2026-11-16": 1
   },
   "todayProblems": [
-    "Delete Nodes From Linked List Present in Array",
-    "Valid Word"
+    "Half Ascending and Half Descending Sort"
   ]
 }
