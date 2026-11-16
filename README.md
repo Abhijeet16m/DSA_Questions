@@ -192,3 +192,4 @@
 | 190 | [Half Ascending and Half Descending Sort](./GeeksForGeeks/Basic/Half%20Ascending%20and%20Half%20Descending%20Sort) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/sort-first-half-in-ascending-and-second-half-in-descending1714/1?page=2&category=Arrays&difficulty=Basic&sortBy=submissions) | Basic | 16 Nov 2026 | 08:46 pm |
 | 191 | [Merge and Sort](./GeeksForGeeks/Basic/Merge%20and%20Sort) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/merge-and-sort5821/1?page=2&category=Arrays&difficulty=Basic&sortBy=submissions) | Basic | 16 Nov 2026 | 08:53 pm |
 | 192 | [Car Fleet](./LeetCode/Medium/Car%20Fleet) | [LeetCode](https://leetcode.com/problems/car-fleet/) | Medium | 16 Nov 2026 | 09:50 pm |
+| 193 | [Asteroid Collision](./LeetCode/Medium/Asteroid%20Collision) | [LeetCode](https://leetcode.com/problems/asteroid-collision/) | Medium | 16 Nov 2026 | 10:05 pm |
