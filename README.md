@@ -193,3 +193,4 @@
 | 191 | [Merge and Sort](./GeeksForGeeks/Basic/Merge%20and%20Sort) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/merge-and-sort5821/1?page=2&category=Arrays&difficulty=Basic&sortBy=submissions) | Basic | 16 Nov 2026 | 08:53 pm |
 | 192 | [Car Fleet](./LeetCode/Medium/Car%20Fleet) | [LeetCode](https://leetcode.com/problems/car-fleet/) | Medium | 16 Nov 2026 | 09:50 pm |
 | 193 | [Asteroid Collision](./LeetCode/Medium/Asteroid%20Collision) | [LeetCode](https://leetcode.com/problems/asteroid-collision/) | Medium | 16 Nov 2026 | 10:05 pm |
+| 194 | [Diagonal Sum in Matrix](./GeeksForGeeks/Basic/Diagonal%20Sum%20in%20Matrix) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/diagonal-sum0158/1) | Basic | 18 Nov 2026 | 08:15 am |
