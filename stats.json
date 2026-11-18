@@ -1,14 +1,14 @@
 {
-  "totalSolved": 267,
+  "totalSolved": 268,
   "currentStreak": 1,
   "maxStreak": 14,
   "lastSyncDate": "2026-11-18",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 101,
     "medium": 83,
     "hard": 10,
-    "basic": 73
+    "basic": 74
   },
   "syncedProblems": {
     "LeetCode_Two_Sum": true,
@@ -277,7 +277,8 @@
     "GeeksForGeeks_Merge_and_Sort": true,
     "LeetCode_Car_Fleet": true,
     "LeetCode_Asteroid_Collision": true,
-    "GeeksForGeeks_Diagonal_Sum_in_Matrix": true
+    "GeeksForGeeks_Diagonal_Sum_in_Matrix": true,
+    "GeeksForGeeks_Array_fill": true
   },
   "activityHistory": {
     "2026-09-29": 7,
@@ -316,9 +317,10 @@
     "2026-11-12": 3,
     "2026-11-13": 2,
     "2026-11-16": 4,
-    "2026-11-18": 1
+    "2026-11-18": 2
   },
   "todayProblems": [
-    "Diagonal Sum in Matrix"
+    "Diagonal Sum in Matrix",
+    "Array fill"
   ]
 }
