@@ -1,14 +1,14 @@
 {
-  "totalSolved": 269,
+  "totalSolved": 270,
   "currentStreak": 1,
   "maxStreak": 14,
   "lastSyncDate": "2026-11-23",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 101,
     "medium": 83,
     "hard": 10,
-    "basic": 75
+    "basic": 76
   },
   "syncedProblems": {
     "LeetCode_Two_Sum": true,
@@ -279,7 +279,8 @@
     "LeetCode_Asteroid_Collision": true,
     "GeeksForGeeks_Diagonal_Sum_in_Matrix": true,
     "GeeksForGeeks_Array_fill": true,
-    "Codeforces_1352C_-_K-th_Not_Divisible_by_n": true
+    "Codeforces_1352C_-_K-th_Not_Divisible_by_n": true,
+    "Codeforces_1472C_-_Long_Jumps": true
   },
   "activityHistory": {
     "2026-09-29": 7,
@@ -319,9 +320,10 @@
     "2026-11-13": 2,
     "2026-11-16": 4,
     "2026-11-18": 2,
-    "2026-11-23": 1
+    "2026-11-23": 2
   },
   "todayProblems": [
-    "1352C - K-th Not Divisible by n"
+    "1352C - K-th Not Divisible by n",
+    "1472C - Long Jumps"
   ]
 }

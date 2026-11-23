@@ -196,3 +196,4 @@
 | 194 | [Diagonal Sum in Matrix](./GeeksForGeeks/Basic/Diagonal%20Sum%20in%20Matrix) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/diagonal-sum0158/1) | Basic | 18 Nov 2026 | 08:15 am |
 | 195 | [Array fill](./GeeksForGeeks/Basic/Array%20fill) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/vector-fill/1?page=3&category=Arrays&difficulty=Basic&sortBy=submissions) | Basic | 18 Nov 2026 | 08:16 am |
 | 196 | [1352C - K-th Not Divisible by n](./Codeforces/basic/1352C%20-%20K-th%20Not%20Divisible%20by%20n) | [Codeforces](https://codeforces.com/problemset/problem/1352/C) | basic | 23 Nov 2026 | 12:28 pm |
+| 197 | [1472C - Long Jumps](./Codeforces/basic/1472C%20-%20Long%20Jumps) | [Codeforces](https://codeforces.com/problemset/problem/1472/C) | basic | 23 Nov 2026 | 12:40 pm |
