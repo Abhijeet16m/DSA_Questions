@@ -1,0 +1,23 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+long long int kthNonDivisible(int n, int k){
+    long long int currN = n-1;
+    long long int currK = k-1;
+    long long res = ((currK)/(currN))*(currN+1);
+    res += ((currK%currN) + 1);
+    return res;
+}
+
+int main(){
+    int t;
+    cin>>t;
+    while (t--)
+    {
+        int n, k;
+        cin>>n>>k;
+        cout<<kthNonDivisible(n, k)<<endl;
+    }
+    
+    return 0;
+}
